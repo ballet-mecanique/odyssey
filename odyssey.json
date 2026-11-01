@@ -1,6 +1,6 @@
 {
  "title": "The Odyssey in Art",
- "note": "Reproductions from Wikimedia Commons (public domain / CC0). 'src' links to the original file; 'display' is Commons' 1280px rendering used for playback. 'head' = [x,y] fractions (0-1) of Odysseus' head, set in the viewer.",
+ "note": "Reproductions from Wikimedia Commons (public domain / CC0). 'src' links to the original file; 'display' is Commons' 1280px rendering used for playback.",
  "scenes": [
   {
    "id": "horse-building",
@@ -522,7 +522,6 @@
    "license": "Public domain",
    "width": 2796,
    "height": 1704,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -540,7 +539,6 @@
    "license": "Public domain",
    "width": 7143,
    "height": 1021,
-   "head": null,
    "duplicateOf": "Giovanni Domenico Tiepolo - The Building of the Trojan Horse, 1773-1774.jpg",
    "complete": false,
    "concise": false
@@ -559,7 +557,6 @@
    "license": "Public domain",
    "width": 1200,
    "height": 641,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -577,7 +574,6 @@
    "license": "CC0",
    "width": 4000,
    "height": 3000,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -595,7 +591,6 @@
    "license": "CC0",
    "width": 1300,
    "height": 1000,
-   "head": null,
    "duplicateOf": "Carnelian scarab MET DP138680.jpg",
    "complete": false,
    "concise": false
@@ -614,7 +609,6 @@
    "license": "CC0",
    "width": 4000,
    "height": 3000,
-   "head": null,
    "duplicateOf": "Carnelian scarab MET DP138680.jpg",
    "complete": false,
    "concise": false
@@ -633,7 +627,6 @@
    "license": "CC0",
    "width": 4138,
    "height": 3780,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -651,7 +644,6 @@
    "license": "Public domain",
    "width": 1719,
    "height": 1169,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -669,7 +661,6 @@
    "license": "Public domain",
    "width": 825,
    "height": 1072,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -687,7 +678,6 @@
    "license": "Public domain",
    "width": 1863,
    "height": 2221,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -705,7 +695,6 @@
    "license": "Public domain",
    "width": 1667,
    "height": 2162,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -723,7 +712,6 @@
    "license": "Public domain",
    "width": 1918,
    "height": 2140,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -741,7 +729,6 @@
    "license": "CC0",
    "width": 4430,
    "height": 4661,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -759,7 +746,6 @@
    "license": "CC0",
    "width": 3646,
    "height": 2746,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -777,7 +763,6 @@
    "license": "CC0",
    "width": 6824,
    "height": 5164,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -795,7 +780,6 @@
    "license": "Public domain",
    "width": 2100,
    "height": 1308,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -813,7 +797,6 @@
    "license": "CC0",
    "width": 3794,
    "height": 2443,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -831,7 +814,6 @@
    "license": "CC0",
    "width": 6648,
    "height": 5104,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -849,7 +831,6 @@
    "license": "CC0",
    "width": 5664,
    "height": 4404,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -867,7 +848,6 @@
    "license": "Public domain",
    "width": 2812,
    "height": 5232,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -885,7 +865,6 @@
    "license": "Public domain",
    "width": 1717,
    "height": 965,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -903,7 +882,6 @@
    "license": "Public domain",
    "width": 1242,
    "height": 720,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -921,7 +899,6 @@
    "license": "Public domain",
    "width": 500,
    "height": 731,
-   "head": null,
    "duplicateOf": "Othea's Epistle (Fondation Martin Bodmer) 14.jpg",
    "complete": false,
    "concise": false
@@ -940,7 +917,6 @@
    "license": "Public domain",
    "width": 600,
    "height": 412,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -958,7 +934,6 @@
    "license": "Public domain",
    "width": 1920,
    "height": 1369,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -976,7 +951,6 @@
    "license": "Public domain",
    "width": 4000,
    "height": 6000,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -994,7 +968,6 @@
    "license": "Public domain",
    "width": 1850,
    "height": 2031,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -1012,7 +985,6 @@
    "license": "CC0",
    "width": 2507,
    "height": 2636,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1030,7 +1002,6 @@
    "license": "Public domain",
    "width": 1812,
    "height": 1732,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1048,7 +1019,6 @@
    "license": "Public domain",
    "width": 2597,
    "height": 3225,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -1066,7 +1036,6 @@
    "license": "Public domain",
    "width": 4693,
    "height": 5320,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1084,7 +1053,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 670,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -1102,7 +1070,6 @@
    "license": "Public domain",
    "width": 474,
    "height": 699,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -1120,7 +1087,6 @@
    "license": "CC0",
    "width": 1500,
    "height": 2000,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -1138,7 +1104,6 @@
    "license": "CC0",
    "width": 990,
    "height": 885,
-   "head": null,
    "duplicateOf": "Mykonos Pithos 2240.jpg",
    "complete": false,
    "concise": false
@@ -1157,7 +1122,6 @@
    "license": "Public domain",
    "width": 3000,
    "height": 2091,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1175,7 +1139,6 @@
    "license": "Public domain",
    "width": 2659,
    "height": 3841,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -1193,7 +1156,6 @@
    "license": "Public domain",
    "width": 4096,
    "height": 3085,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1211,7 +1173,6 @@
    "license": "Public domain",
    "width": 7101,
    "height": 4138,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1229,7 +1190,6 @@
    "license": "Public domain",
    "width": 579,
    "height": 340,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -1247,7 +1207,6 @@
    "license": "Public domain",
    "width": 5377,
    "height": 4138,
-   "head": null,
    "duplicateOf": "Giovanni Domenico Tiepolo - The Procession of the Trojan Horse in Troy - WGA22382.jpg",
    "complete": false,
    "concise": false
@@ -1266,7 +1225,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 648,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -1284,7 +1242,6 @@
    "license": "Public domain",
    "width": 1991,
    "height": 902,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -1302,7 +1259,6 @@
    "license": "Public domain",
    "width": 848,
    "height": 918,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -1320,7 +1276,6 @@
    "license": "Public domain",
    "width": 769,
    "height": 917,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -1338,7 +1293,6 @@
    "license": "Public domain",
    "width": 2233,
    "height": 2211,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -1356,7 +1310,6 @@
    "license": "Public domain",
    "width": 3000,
    "height": 2277,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -1374,7 +1327,6 @@
    "license": "Public domain",
    "width": 550,
    "height": 428,
-   "head": null,
    "duplicateOf": "Das Trojanische Pferd - Lovis Corinth.jpg",
    "complete": false,
    "concise": false
@@ -1393,7 +1345,6 @@
    "license": "Public domain",
    "width": 1222,
    "height": 983,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1411,7 +1362,6 @@
    "license": "Public domain",
    "width": 653,
    "height": 474,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1429,7 +1379,6 @@
    "license": "Public domain",
    "width": 1024,
    "height": 740,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1447,7 +1396,6 @@
    "license": "Public domain",
    "width": 3248,
    "height": 2848,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1465,7 +1413,6 @@
    "license": "CC0",
    "width": 6420,
    "height": 4856,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1483,7 +1430,6 @@
    "license": "CC0",
    "width": 6438,
    "height": 4816,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1501,7 +1447,6 @@
    "license": "CC0",
    "width": 5595,
    "height": 4764,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1519,7 +1464,6 @@
    "license": "CC0",
    "width": 5595,
    "height": 4763,
-   "head": null,
    "duplicateOf": "Odysseus offert aan de goden De werken van Odysseus (serietitel), RP-P-OB-66.733.jpg",
    "complete": false,
    "concise": false
@@ -1538,7 +1482,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 789,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -1556,7 +1499,6 @@
    "license": "Public domain",
    "width": 4836,
    "height": 2484,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -1574,7 +1516,6 @@
    "license": "Public domain",
    "width": 1464,
    "height": 1699,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -1592,7 +1533,6 @@
    "license": "Public domain",
    "width": 2952,
    "height": 2165,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1610,7 +1550,6 @@
    "license": "Public domain",
    "width": 3543,
    "height": 2535,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1628,7 +1567,6 @@
    "license": "Public domain",
    "width": 1137,
    "height": 491,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1646,7 +1584,6 @@
    "license": "CC0",
    "width": 7570,
    "height": 4626,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -1664,7 +1601,6 @@
    "license": "CC0",
    "width": 5508,
    "height": 4990,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -1682,7 +1618,6 @@
    "license": "CC0",
    "width": 5614,
    "height": 4751,
-   "head": null,
    "duplicateOf": "Moord op Agamemnon en Cassandra De werken van Odysseus (serietitel), RP-P-OB-66.739.jpg",
    "complete": false,
    "concise": false
@@ -1701,7 +1636,6 @@
    "license": "CC0",
    "width": 4070,
    "height": 3636,
-   "head": null,
    "duplicateOf": "Terugkeer van Agamemnon en Cassandra in Mycene De werken van Odysseus (serietitel), RP-P-OB-66.738.jpg",
    "complete": false,
    "concise": false
@@ -1720,7 +1654,6 @@
    "license": "CC0",
    "width": 5147,
    "height": 6669,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -1738,7 +1671,6 @@
    "license": "Public domain",
    "width": 2014,
    "height": 2056,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1756,7 +1688,6 @@
    "license": "Public domain",
    "width": 2388,
    "height": 2505,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1774,7 +1705,6 @@
    "license": "Public domain",
    "width": 1133,
    "height": 1010,
-   "head": null,
    "duplicateOf": "Murder of agamemnon.jpg",
    "complete": false,
    "concise": false
@@ -1793,7 +1723,6 @@
    "license": "Public domain",
    "width": 600,
    "height": 982,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1811,7 +1740,6 @@
    "license": "CC0",
    "width": 1820,
    "height": 1396,
-   "head": null,
    "duplicateOf": "Ulysses and His Companions Fighting the Cicones Before the City of Ismaros, Study for a Destroyed Fresco in the Galerie d'Ulysee, Chateau de Fontainebleau MET DP811274.jpg",
    "complete": false,
    "concise": false
@@ -1830,7 +1758,6 @@
    "license": "CC0",
    "width": 2592,
    "height": 1962,
-   "head": null,
    "duplicateOf": "Ulysses and His Companions Fighting the Cicones Before the City of Ismaros, Study for a Destroyed Fresco in the Galerie d'Ulysee, Chateau de Fontainebleau MET DP811274.jpg",
    "complete": false,
    "concise": false
@@ -1849,7 +1776,6 @@
    "license": "CC0",
    "width": 3695,
    "height": 3012,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -1867,7 +1793,6 @@
    "license": "CC0",
    "width": 6266,
    "height": 4834,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -1885,7 +1810,6 @@
    "license": "CC0",
    "width": 5615,
    "height": 4785,
-   "head": null,
    "duplicateOf": "Odysseus vecht met de Kikonen De werken van Odysseus (serietitel), RP-P-OB-66.735.jpg",
    "complete": false,
    "concise": false
@@ -1904,7 +1828,6 @@
    "license": "Public domain",
    "width": 3176,
    "height": 2824,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -1922,7 +1845,6 @@
    "license": "CC0",
    "width": 6694,
    "height": 5016,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -1940,7 +1862,6 @@
    "license": "Public domain",
    "width": 1600,
    "height": 1214,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1958,7 +1879,6 @@
    "license": "CC0",
    "width": 4314,
    "height": 3822,
-   "head": null,
    "duplicateOf": "Odysseus in het land van de lotuseters De werken van Odysseus (serietitel), RP-P-OB-66.736.jpg",
    "complete": false,
    "concise": false
@@ -1977,7 +1897,6 @@
    "license": "Public domain",
    "width": 516,
    "height": 704,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -1995,7 +1914,6 @@
    "license": "Public domain",
    "width": 4330,
    "height": 2924,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -2013,7 +1931,6 @@
    "license": "Public domain",
    "width": 1753,
    "height": 1036,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2031,7 +1948,6 @@
    "license": "Public domain",
    "width": 5256,
    "height": 7288,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2049,7 +1965,6 @@
    "license": "Public domain",
    "width": 945,
    "height": 699,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2067,7 +1982,6 @@
    "license": "Public domain",
    "width": 731,
    "height": 1297,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -2085,7 +1999,6 @@
    "license": "CC0",
    "width": 5500,
    "height": 3494,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2103,7 +2016,6 @@
    "license": "Public domain",
    "width": 3216,
    "height": 2784,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2121,7 +2033,6 @@
    "license": "CC0",
    "width": 5108,
    "height": 4004,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2139,7 +2050,6 @@
    "license": "CC0",
    "width": 6486,
    "height": 4800,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2157,7 +2067,6 @@
    "license": "CC0",
    "width": 5615,
    "height": 4743,
-   "head": null,
    "duplicateOf": "Odysseus in het land van de Cyclopen De werken van Odysseus (serietitel), RP-P-OB-66.737.jpg",
    "complete": false,
    "concise": false
@@ -2176,7 +2085,6 @@
    "license": "CC0",
    "width": 5609,
    "height": 4777,
-   "head": null,
    "duplicateOf": "Polyphemus bewaakt de kudde De werken van Odysseus (serietitel), RP-P-OB-66.740.jpg",
    "complete": false,
    "concise": false
@@ -2195,7 +2103,6 @@
    "license": "Public domain",
    "width": 6156,
    "height": 4514,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2213,7 +2120,6 @@
    "license": "Public domain",
    "width": 900,
    "height": 557,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -2231,7 +2137,6 @@
    "license": "Public domain",
    "width": 3030,
    "height": 3984,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -2249,7 +2154,6 @@
    "license": "Public domain",
    "width": 518,
    "height": 702,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2267,7 +2171,6 @@
    "license": "Public domain",
    "width": 1840,
    "height": 1828,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2285,7 +2188,6 @@
    "license": "CC0",
    "width": 4000,
    "height": 3161,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2303,7 +2205,6 @@
    "license": "Public domain",
    "width": 2650,
    "height": 3808,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2321,7 +2222,6 @@
    "license": "CC0",
    "width": 6144,
    "height": 4096,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2339,7 +2239,6 @@
    "license": "Public domain",
    "width": 2936,
    "height": 2855,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2357,7 +2256,6 @@
    "license": "Public domain",
    "width": 2088,
    "height": 1608,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2375,7 +2273,6 @@
    "license": "CC0",
    "width": 5064,
    "height": 3376,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2393,7 +2290,6 @@
    "license": "Public domain",
    "width": 1880,
    "height": 1532,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -2411,7 +2307,6 @@
    "license": "Public domain",
    "width": 1500,
    "height": 1132,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2429,7 +2324,6 @@
    "license": "Public domain",
    "width": 4000,
    "height": 1728,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2447,7 +2341,6 @@
    "license": "Public domain",
    "width": 7200,
    "height": 3151,
-   "head": null,
    "duplicateOf": "Arnold Böcklin - Odysseus and Polyphemus.jpg",
    "complete": false,
    "concise": false
@@ -2466,7 +2359,6 @@
    "license": "No restrictions",
    "width": 2624,
    "height": 1652,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2484,7 +2376,6 @@
    "license": "CC0",
    "width": 1472,
    "height": 1680,
-   "head": null,
    "duplicateOf": "Terracotta calyx-krater (bowl for mixing wine and water) MET DT2982.jpg",
    "complete": false,
    "concise": false
@@ -2503,7 +2394,6 @@
    "license": "CC0",
    "width": 2933,
    "height": 3722,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -2521,7 +2411,6 @@
    "license": "Public domain",
    "width": 1259,
    "height": 1664,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2539,7 +2428,6 @@
    "license": "Public domain",
    "width": 1249,
    "height": 1678,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -2557,7 +2445,6 @@
    "license": "Public domain",
    "width": 1950,
    "height": 2580,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -2575,7 +2462,6 @@
    "license": "Public domain",
    "width": 2208,
    "height": 1047,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2593,7 +2479,6 @@
    "license": "Public domain",
    "width": 3168,
    "height": 2784,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -2611,7 +2496,6 @@
    "license": "CC0",
    "width": 6382,
    "height": 4832,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2629,7 +2513,6 @@
    "license": "CC0",
    "width": 4340,
    "height": 3700,
-   "head": null,
    "duplicateOf": "Blindmaking van Polyphemus De werken van Odysseus (serietitel), RP-P-OB-66.741.jpg",
    "complete": false,
    "concise": false
@@ -2648,7 +2531,6 @@
    "license": "Public domain",
    "width": 6049,
    "height": 5017,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -2666,7 +2548,6 @@
    "license": "CC0",
    "width": 1921,
    "height": 3232,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2684,7 +2565,6 @@
    "license": "CC0",
    "width": 3649,
    "height": 2845,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -2702,7 +2582,6 @@
    "license": "Public domain",
    "width": 1200,
    "height": 756,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -2720,7 +2599,6 @@
    "license": "Public domain",
    "width": 3264,
    "height": 2800,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -2738,7 +2616,6 @@
    "license": "CC0",
    "width": 6416,
    "height": 4822,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2756,7 +2633,6 @@
    "license": "CC0",
    "width": 4366,
    "height": 3796,
-   "head": null,
    "duplicateOf": "Odysseus ontsnapt uit de grot van Polyphemus De werken van Odysseus (serietitel), RP-P-OB-66.742.jpg",
    "complete": false,
    "concise": false
@@ -2775,7 +2651,6 @@
    "license": "CC0",
    "width": 3888,
    "height": 2592,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2793,7 +2668,6 @@
    "license": "CC0",
    "width": 3150,
    "height": 3825,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2811,7 +2685,6 @@
    "license": "CC0",
    "width": 2824,
    "height": 3000,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2829,7 +2702,6 @@
    "license": "CC0",
    "width": 2412,
    "height": 3000,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2847,7 +2719,6 @@
    "license": "CC0",
    "width": 3594,
    "height": 3894,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2865,7 +2736,6 @@
    "license": "CC0",
    "width": 4160,
    "height": 3363,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2883,7 +2753,6 @@
    "license": "CC0",
    "width": 4752,
    "height": 3168,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2901,7 +2770,6 @@
    "license": "CC0",
    "width": 4752,
    "height": 3168,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2919,7 +2787,6 @@
    "license": "Public domain",
    "width": 2666,
    "height": 2500,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2937,7 +2804,6 @@
    "license": "CC0",
    "width": 3166,
    "height": 2110,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2955,7 +2821,6 @@
    "license": "Public domain",
    "width": 1823,
    "height": 2915,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -2973,7 +2838,6 @@
    "license": "CC0",
    "width": 3924,
    "height": 2616,
-   "head": null,
    "duplicateOf": "Arula con raffigurazione di Ulisse e un compagno che fuggono da Polifemo, VI sec. a.C. -FG1.jpg",
    "complete": false,
    "concise": false
@@ -2992,7 +2856,6 @@
    "license": "Public domain",
    "width": 1200,
    "height": 790,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3010,7 +2873,6 @@
    "license": "Public domain",
    "width": 768,
    "height": 499,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3028,7 +2890,6 @@
    "license": "Public domain",
    "width": 1607,
    "height": 2000,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3046,7 +2907,6 @@
    "license": "Public domain",
    "width": 901,
    "height": 1260,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3064,7 +2924,6 @@
    "license": "CC0",
    "width": 6302,
    "height": 4844,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3082,7 +2941,6 @@
    "license": "CC0",
    "width": 4330,
    "height": 3652,
-   "head": null,
    "duplicateOf": "Polyphemus werpt een rots naar het schip van Odysseus De werken van Odysseus (serietitel), RP-P-OB-66.743.jpg",
    "complete": false,
    "concise": false
@@ -3101,7 +2959,6 @@
    "license": "Public domain",
    "width": 1020,
    "height": 263,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3119,7 +2976,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 514,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3137,7 +2993,6 @@
    "license": "Public domain",
    "width": 6947,
    "height": 4656,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3155,7 +3010,6 @@
    "license": "Public domain",
    "width": 2129,
    "height": 1490,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3173,7 +3027,6 @@
    "license": "Public domain",
    "width": 1200,
    "height": 801,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3191,7 +3044,6 @@
    "license": "Public domain",
    "width": 1208,
    "height": 770,
-   "head": null,
    "duplicateOf": "Turner - Ulysses deriding Polyphemus 1829.jpg",
    "complete": false,
    "concise": false
@@ -3210,7 +3062,6 @@
    "license": "Public domain",
    "width": 1920,
    "height": 1200,
-   "head": null,
    "duplicateOf": "Turner - Ulysses deriding Polyphemus 1829.jpg",
    "complete": false,
    "concise": false
@@ -3229,7 +3080,6 @@
    "license": "Public domain",
    "width": 6493,
    "height": 4226,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3247,7 +3097,6 @@
    "license": "CC0",
    "width": 5928,
    "height": 4358,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3265,7 +3114,6 @@
    "license": "CC0",
    "width": 1920,
    "height": 1363,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3283,7 +3131,6 @@
    "license": "No restrictions",
    "width": 1962,
    "height": 1276,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3301,7 +3148,6 @@
    "license": "CC0",
    "width": 6488,
    "height": 4588,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3319,7 +3165,6 @@
    "license": "Public domain",
    "width": 2880,
    "height": 1247,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3337,7 +3182,6 @@
    "license": "Public domain",
    "width": 1680,
    "height": 434,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3355,7 +3199,6 @@
    "license": "No restrictions",
    "width": 3152,
    "height": 2028,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3373,7 +3216,6 @@
    "license": "Public domain",
    "width": 1748,
    "height": 1237,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3391,7 +3233,6 @@
    "license": "Public domain",
    "width": 3168,
    "height": 2824,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3409,7 +3250,6 @@
    "license": "CC0",
    "width": 6372,
    "height": 4830,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3427,7 +3267,6 @@
    "license": "CC0",
    "width": 6472,
    "height": 4852,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3445,7 +3284,6 @@
    "license": "CC0",
    "width": 4266,
    "height": 3822,
-   "head": null,
    "duplicateOf": "Odysseus ontvangt van Aeolus de zak met tegenwinden De werken van Odysseus (serietitel), RP-P-OB-66.744.jpg",
    "complete": false,
    "concise": false
@@ -3464,7 +3302,6 @@
    "license": "CC0",
    "width": 4344,
    "height": 3728,
-   "head": null,
    "duplicateOf": "Zephyrus blaast het schip van Odysseus vooruit De werken van Odysseus (serietitel), RP-P-OB-66.745.jpg",
    "complete": false,
    "concise": false
@@ -3483,7 +3320,6 @@
    "license": "Public domain",
    "width": 6037,
    "height": 4218,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3501,7 +3337,6 @@
    "license": "Public domain",
    "width": 2017,
    "height": 1928,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3519,7 +3354,6 @@
    "license": "CC0",
    "width": 1806,
    "height": 3742,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3537,7 +3371,6 @@
    "license": "CC0",
    "width": 2500,
    "height": 1777,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3555,7 +3388,6 @@
    "license": "CC0",
    "width": 7824,
    "height": 4604,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3573,7 +3405,6 @@
    "license": "CC0",
    "width": 5298,
    "height": 3628,
-   "head": null,
    "duplicateOf": "Odysseus metgezellen openen de zak met winden De werken van Odysseus (serietitel), RP-P-OB-66.747.jpg",
    "complete": false,
    "concise": false
@@ -3592,7 +3423,6 @@
    "license": "Public domain",
    "width": 754,
    "height": 556,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3610,7 +3440,6 @@
    "license": "CC0",
    "width": 5068,
    "height": 3938,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3628,7 +3457,6 @@
    "license": "Public domain",
    "width": 3120,
    "height": 2448,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3646,7 +3474,6 @@
    "license": "CC0",
    "width": 5694,
    "height": 4742,
-   "head": null,
    "duplicateOf": "Odysseus in het land van de Laistrygonen De werken van Odysseus (serietitel), RP-P-OB-66.748.jpg",
    "complete": false,
    "concise": false
@@ -3665,7 +3492,6 @@
    "license": "Public domain",
    "width": 2411,
    "height": 1923,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3683,7 +3509,6 @@
    "license": "Public domain",
    "width": 2375,
    "height": 1595,
-   "head": null,
    "duplicateOf": "Römischer Meister um 125 v. Chr. 001.jpg",
    "complete": false,
    "concise": false
@@ -3702,7 +3527,6 @@
    "license": "Public domain",
    "width": 2560,
    "height": 1826,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3720,7 +3544,6 @@
    "license": "Public domain",
    "width": 1942,
    "height": 1474,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3738,7 +3561,6 @@
    "license": "Public domain",
    "width": 2148,
    "height": 1656,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3756,7 +3578,6 @@
    "license": "Public domain",
    "width": 1969,
    "height": 1432,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3774,7 +3595,6 @@
    "license": "Public domain",
    "width": 1220,
    "height": 960,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3792,7 +3612,6 @@
    "license": "CC0",
    "width": 1320,
    "height": 1922,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3810,7 +3629,6 @@
    "license": "CC0",
    "width": 3373,
    "height": 3048,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3828,7 +3646,6 @@
    "license": "Public domain",
    "width": 668,
    "height": 1024,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3846,7 +3663,6 @@
    "license": "Public domain",
    "width": 1365,
    "height": 1469,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3864,7 +3680,6 @@
    "license": "CC0",
    "width": 1618,
    "height": 1472,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3882,7 +3697,6 @@
    "license": "CC0",
    "width": 1612,
    "height": 1462,
-   "head": null,
    "duplicateOf": "Circe verandert de mannen van Odysseus in zwijnen, RP-P-H-G-153-4.jpg",
    "complete": false,
    "concise": false
@@ -3901,7 +3715,6 @@
    "license": "Public domain",
    "width": 1012,
    "height": 897,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3919,7 +3732,6 @@
    "license": "Public domain",
    "width": 1620,
    "height": 1575,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -3937,7 +3749,6 @@
    "license": "CC0",
    "width": 1345,
    "height": 1922,
-   "head": null,
    "duplicateOf": "Circe and the Companions of Ulysses MET DP816870.jpg",
    "complete": false,
    "concise": false
@@ -3956,7 +3767,6 @@
    "license": "CC0",
    "width": 2843,
    "height": 3407,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3974,7 +3784,6 @@
    "license": "CC0",
    "width": 2812,
    "height": 3534,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -3992,7 +3801,6 @@
    "license": "Public domain",
    "width": 1634,
    "height": 1354,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4010,7 +3818,6 @@
    "license": "Public domain",
    "width": 450,
    "height": 793,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -4028,7 +3835,6 @@
    "license": "Public domain",
    "width": 3160,
    "height": 2832,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4046,7 +3852,6 @@
    "license": "CC0",
    "width": 6236,
    "height": 4174,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4064,7 +3869,6 @@
    "license": "Public domain",
    "width": 2752,
    "height": 1344,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4082,7 +3886,6 @@
    "license": "Public domain",
    "width": 768,
    "height": 534,
-   "head": null,
    "duplicateOf": "Carracci - Ulysse et Mercure devant Circé, INV 7211, Recto.jpg",
    "complete": false,
    "concise": false
@@ -4101,7 +3904,6 @@
    "license": "Public domain",
    "width": 768,
    "height": 561,
-   "head": null,
    "duplicateOf": "Carracci - Ulysse et Mercure devant Circé, INV 7211, Recto.jpg",
    "complete": false,
    "concise": false
@@ -4120,7 +3922,6 @@
    "license": "Public domain",
    "width": 768,
    "height": 745,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4138,7 +3939,6 @@
    "license": "Public domain",
    "width": 6089,
    "height": 5180,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -4156,7 +3956,6 @@
    "license": "Public domain",
    "width": 586,
    "height": 853,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -4174,7 +3973,6 @@
    "license": "CC0",
    "width": 5318,
    "height": 3545,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4192,7 +3990,6 @@
    "license": "Public domain",
    "width": 6666,
    "height": 4968,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -4210,7 +4007,6 @@
    "license": "Public domain",
    "width": 5000,
    "height": 3726,
-   "head": null,
    "duplicateOf": "Jacob Jordaens (I) - Ulysses threatening Circe, 1630-35.jpg",
    "complete": false,
    "concise": false
@@ -4229,7 +4025,6 @@
    "license": "CC0",
    "width": 4504,
    "height": 3264,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4247,7 +4042,6 @@
    "license": "Public domain",
    "width": 2048,
    "height": 2467,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -4265,7 +4059,6 @@
    "license": "Public domain",
    "width": 1207,
    "height": 911,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -4283,7 +4076,6 @@
    "license": "Public domain",
    "width": 4271,
    "height": 3590,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4301,7 +4093,6 @@
    "license": "Public domain",
    "width": 3000,
    "height": 3362,
-   "head": null,
    "duplicateOf": "Ulysse menaçant Circé - dessin - attribué à Jacob Jordaens - btv1b53241247w (1 of 2).jpg",
    "complete": false,
    "concise": false
@@ -4320,7 +4111,6 @@
    "license": "Public domain",
    "width": 1200,
    "height": 1635,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4338,7 +4128,6 @@
    "license": "Public domain",
    "width": 442,
    "height": 600,
-   "head": null,
    "duplicateOf": "Bartholomäus Spranger, , Kunsthistorisches Museum Wien, Gemäldegalerie - Odysseus und Kirke - GG 1095 - Kunsthistorisches Museum.jpg",
    "complete": false,
    "concise": false
@@ -4357,7 +4146,6 @@
    "license": "Public domain",
    "width": 1132,
    "height": 1706,
-   "head": null,
    "duplicateOf": "Bartholomäus Spranger, , Kunsthistorisches Museum Wien, Gemäldegalerie - Odysseus und Kirke - GG 1095 - Kunsthistorisches Museum.jpg",
    "complete": false,
    "concise": false
@@ -4376,7 +4164,6 @@
    "license": "Public domain",
    "width": 322,
    "height": 486,
-   "head": null,
    "duplicateOf": "Bartholomäus Spranger, , Kunsthistorisches Museum Wien, Gemäldegalerie - Odysseus und Kirke - GG 1095 - Kunsthistorisches Museum.jpg",
    "complete": false,
    "concise": false
@@ -4395,7 +4182,6 @@
    "license": "CC0",
    "width": 4390,
    "height": 3412,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4413,7 +4199,6 @@
    "license": "Public domain",
    "width": 1143,
    "height": 793,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4431,7 +4216,6 @@
    "license": "CC0",
    "width": 3818,
    "height": 3326,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4449,7 +4233,6 @@
    "license": "Public domain",
    "width": 2357,
    "height": 1646,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4467,7 +4250,6 @@
    "license": "Public domain",
    "width": 9046,
    "height": 6748,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -4485,7 +4267,6 @@
    "license": "Public domain",
    "width": 1600,
    "height": 1191,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4503,7 +4284,6 @@
    "license": "Public domain",
    "width": 768,
    "height": 572,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4521,7 +4301,6 @@
    "license": "Public domain",
    "width": 768,
    "height": 568,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4539,7 +4318,6 @@
    "license": "Public domain",
    "width": 2702,
    "height": 1861,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4557,7 +4335,6 @@
    "license": "Public domain",
    "width": 2653,
    "height": 1831,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4575,7 +4352,6 @@
    "license": "CC0",
    "width": 6728,
    "height": 5062,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4593,7 +4369,6 @@
    "license": "CC0",
    "width": 4122,
    "height": 5612,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4611,7 +4386,6 @@
    "license": "Public domain",
    "width": 3152,
    "height": 2712,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4629,7 +4403,6 @@
    "license": "Public domain",
    "width": 3160,
    "height": 2696,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4647,7 +4420,6 @@
    "license": "Public domain",
    "width": 3200,
    "height": 2736,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4665,7 +4437,6 @@
    "license": "CC0",
    "width": 6658,
    "height": 4946,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4683,7 +4454,6 @@
    "license": "CC0",
    "width": 5198,
    "height": 3992,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4701,7 +4471,6 @@
    "license": "CC0",
    "width": 6738,
    "height": 4942,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4719,7 +4488,6 @@
    "license": "CC0",
    "width": 5694,
    "height": 4753,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4737,7 +4505,6 @@
    "license": "CC0",
    "width": 4246,
    "height": 3534,
-   "head": null,
    "duplicateOf": "Odysseus cremeert het lichaam van Elpenor De werken van Odysseus (serietitel), RP-P-OB-66.756.jpg",
    "complete": false,
    "concise": false
@@ -4756,7 +4523,6 @@
    "license": "CC0",
    "width": 5693,
    "height": 4743,
-   "head": null,
    "duplicateOf": "Odysseus in het paleis van Circe, RP-P-OB-66.750.jpg",
    "complete": false,
    "concise": false
@@ -4775,7 +4541,6 @@
    "license": "CC0",
    "width": 5692,
    "height": 4758,
-   "head": null,
    "duplicateOf": "Odysseus verlaat Circe De werken van Odysseus (serietitel), RP-P-OB-66.751.jpg",
    "complete": false,
    "concise": false
@@ -4794,7 +4559,6 @@
    "license": "CC0",
    "width": 5962,
    "height": 3670,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4812,7 +4576,6 @@
    "license": "Public domain",
    "width": 2826,
    "height": 3474,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4830,7 +4593,6 @@
    "license": "Public domain",
    "width": 1024,
    "height": 1246,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4848,7 +4610,6 @@
    "license": "Public domain",
    "width": 640,
    "height": 467,
-   "head": null,
    "duplicateOf": "Wilhelm Schubert van Ehrenberg, animals by Carl Borromäus Andreas Ruthart - Ulysses at the Palace of Circe - 71.PA.20 - J. Paul Getty Museum.jpg",
    "complete": false,
    "concise": false
@@ -4867,7 +4628,6 @@
    "license": "Public domain",
    "width": 9410,
    "height": 6859,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4885,7 +4645,6 @@
    "license": "Public domain",
    "width": 6034,
    "height": 4836,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4903,7 +4662,6 @@
    "license": "Public domain",
    "width": 5575,
    "height": 6969,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4921,7 +4679,6 @@
    "license": "CC0",
    "width": 416,
    "height": 624,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -4939,7 +4696,6 @@
    "license": "Public domain",
    "width": 2720,
    "height": 2763,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -4957,7 +4713,6 @@
    "license": "Public domain",
    "width": 1371,
    "height": 850,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4975,7 +4730,6 @@
    "license": "Public domain",
    "width": 905,
    "height": 600,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -4993,7 +4747,6 @@
    "license": "CC0",
    "width": 3456,
    "height": 5184,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5011,7 +4764,6 @@
    "license": "Public domain",
    "width": 509,
    "height": 797,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5029,7 +4781,6 @@
    "license": "Public domain",
    "width": 1425,
    "height": 1199,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5047,7 +4798,6 @@
    "license": "Public domain",
    "width": 1500,
    "height": 897,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5065,7 +4815,6 @@
    "license": "Public domain",
    "width": 1280,
    "height": 705,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5083,7 +4832,6 @@
    "license": "Public domain",
    "width": 768,
    "height": 534,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5101,7 +4849,6 @@
    "license": "Public domain",
    "width": 1500,
    "height": 1085,
-   "head": null,
    "duplicateOf": "Ulisse e Circe.jpg",
    "complete": false,
    "concise": false
@@ -5120,7 +4867,6 @@
    "license": "Public domain",
    "width": 2100,
    "height": 1388,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5138,7 +4884,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 575,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5156,7 +4901,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 645,
-   "head": null,
    "duplicateOf": "Peekri ulatamine (Kirke ja Ody, Erich von Kügelgen, EKM j 283-289 M 1365.jpg",
    "complete": false,
    "concise": false
@@ -5175,7 +4919,6 @@
    "license": "Public domain",
    "width": 738,
    "height": 800,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5193,7 +4936,6 @@
    "license": "Public domain",
    "width": 2000,
    "height": 1589,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5211,7 +4953,6 @@
    "license": "Public domain",
    "width": 928,
    "height": 1412,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5229,7 +4970,6 @@
    "license": "Public domain",
    "width": 1100,
    "height": 1567,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5247,7 +4987,6 @@
    "license": "Public domain",
    "width": 580,
    "height": 800,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5265,7 +5004,6 @@
    "license": "CC0",
    "width": 3325,
    "height": 3253,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -5283,7 +5021,6 @@
    "license": "Public domain",
    "width": 2244,
    "height": 1452,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5301,7 +5038,6 @@
    "license": "CC0",
    "width": 2853,
    "height": 3722,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5319,7 +5055,6 @@
    "license": "CC0",
    "width": 3434,
    "height": 4336,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5337,7 +5072,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 1344,
-   "head": null,
    "duplicateOf": "Circe Offering the Cup to Odysseus (2457 x 4023px ed.).jpg",
    "complete": false,
    "concise": false
@@ -5356,7 +5090,6 @@
    "license": "Public domain",
    "width": 2457,
    "height": 4023,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5374,7 +5107,6 @@
    "license": "Public domain",
    "width": 780,
    "height": 1116,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5392,7 +5124,6 @@
    "license": "Public domain",
    "width": 1066,
    "height": 695,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -5410,7 +5141,6 @@
    "license": "Public domain",
    "width": 1410,
    "height": 1285,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5428,7 +5158,6 @@
    "license": "CC0",
    "width": 1264,
    "height": 1308,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5446,7 +5175,6 @@
    "license": "Public domain",
    "width": 1639,
    "height": 786,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -5464,7 +5192,6 @@
    "license": "Public domain",
    "width": 3168,
    "height": 2696,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5482,7 +5209,6 @@
    "license": "CC0",
    "width": 6616,
    "height": 4980,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5500,7 +5226,6 @@
    "license": "CC0",
    "width": 6540,
    "height": 4890,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5518,7 +5243,6 @@
    "license": "CC0",
    "width": 6518,
    "height": 4832,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5536,7 +5260,6 @@
    "license": "CC0",
    "width": 5691,
    "height": 4754,
-   "head": null,
    "duplicateOf": "Odysseus arriveert bij de onderwereld De werken van Odysseus (serietitel), RP-P-OB-66.752.jpg",
    "complete": false,
    "concise": false
@@ -5555,7 +5278,6 @@
    "license": "CC0",
    "width": 5689,
    "height": 4768,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5573,7 +5295,6 @@
    "license": "CC0",
    "width": 4108,
    "height": 3594,
-   "head": null,
    "duplicateOf": "Tiresias drinkt het bloed van het offer De werken van Odysseus (serietitel), RP-P-OB-66.754.jpg",
    "complete": false,
    "concise": false
@@ -5592,7 +5313,6 @@
    "license": "Public domain",
    "width": 6795,
    "height": 6120,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5610,7 +5330,6 @@
    "license": "Public domain",
    "width": 1920,
    "height": 1920,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5628,7 +5347,6 @@
    "license": "Public domain",
    "width": 7990,
    "height": 5327,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5646,7 +5364,6 @@
    "license": "Public domain",
    "width": 2100,
    "height": 3150,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5664,7 +5381,6 @@
    "license": "Public domain",
    "width": 2816,
    "height": 2112,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5682,7 +5398,6 @@
    "license": "CC0",
    "width": 6750,
    "height": 3572,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5700,7 +5415,6 @@
    "license": "Public domain",
    "width": 2437,
    "height": 3553,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5718,7 +5432,6 @@
    "license": "Public domain",
    "width": 4112,
    "height": 5986,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -5736,7 +5449,6 @@
    "license": "Public domain",
    "width": 1200,
    "height": 1000,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -5754,7 +5466,6 @@
    "license": "Public domain",
    "width": 1920,
    "height": 2273,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -5772,7 +5483,6 @@
    "license": "Public domain",
    "width": 699,
    "height": 1068,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -5790,7 +5500,6 @@
    "license": "Public domain",
    "width": 400,
    "height": 536,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -5808,7 +5517,6 @@
    "license": "Public domain",
    "width": 3120,
    "height": 2736,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -5826,7 +5534,6 @@
    "license": "CC0",
    "width": 7836,
    "height": 3614,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5844,7 +5551,6 @@
    "license": "CC0",
    "width": 7010,
    "height": 3883,
-   "head": null,
    "duplicateOf": "Odysseus in de onderwereld De werken van Odysseus (serietitel), RP-P-OB-66.755.jpg",
    "complete": false,
    "concise": false
@@ -5863,7 +5569,6 @@
    "license": "Public domain",
    "width": 2220,
    "height": 1848,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5881,7 +5586,6 @@
    "license": "Public domain",
    "width": 1908,
    "height": 2808,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5899,7 +5603,6 @@
    "license": "Public domain",
    "width": 1760,
    "height": 1812,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5917,7 +5620,6 @@
    "license": "Public domain",
    "width": 1030,
    "height": 822,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5935,7 +5637,6 @@
    "license": "Public domain",
    "width": 2328,
    "height": 1512,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5953,7 +5654,6 @@
    "license": "Public domain",
    "width": 2328,
    "height": 1397,
-   "head": null,
    "duplicateOf": "OdysseyUnderworld.png",
    "complete": false,
    "concise": false
@@ -5972,7 +5672,6 @@
    "license": "Public domain",
    "width": 9444,
    "height": 2387,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -5990,7 +5689,6 @@
    "license": "Public domain",
    "width": 566,
    "height": 1024,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -6008,7 +5706,6 @@
    "license": "Public domain",
    "width": 739,
    "height": 999,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -6026,7 +5723,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 570,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -6044,7 +5740,6 @@
    "license": "Public domain",
    "width": 746,
    "height": 538,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6062,10 +5757,6 @@
    "license": "CC0",
    "width": 4774,
    "height": 6906,
-   "head": [
-    0.5553,
-    0.3854
-   ],
    "complete": true,
    "concise": false
   },
@@ -6083,7 +5774,6 @@
    "license": "Public domain",
    "width": 6494,
    "height": 4914,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6101,7 +5791,6 @@
    "license": "Public domain",
    "width": 3136,
    "height": 2728,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6119,7 +5808,6 @@
    "license": "CC0",
    "width": 4310,
    "height": 3654,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6137,7 +5825,6 @@
    "license": "CC0",
    "width": 6010,
    "height": 4118,
-   "head": null,
    "duplicateOf": "Odysseus en de sirenen, RP-P-1890-A-15254.jpg",
    "complete": false,
    "concise": false
@@ -6156,7 +5843,6 @@
    "license": "CC0",
    "width": 5966,
    "height": 3636,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -6174,7 +5860,6 @@
    "license": "CC0",
    "width": 7124,
    "height": 5432,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -6192,7 +5877,6 @@
    "license": "PDM-owner",
    "width": 5370,
    "height": 8433,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -6210,7 +5894,6 @@
    "license": "PDM-owner",
    "width": 7399,
    "height": 3868,
-   "head": null,
    "duplicateOf": "Odysseus und die Sirenen (SM sg1332z).png",
    "complete": false,
    "concise": false
@@ -6229,7 +5912,6 @@
    "license": "PDM-owner",
    "width": 5173,
    "height": 7347,
-   "head": null,
    "duplicateOf": "Odysseus und die Sirenen (SM sg1332z).png",
    "complete": false,
    "concise": false
@@ -6248,7 +5930,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 410,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6266,7 +5947,6 @@
    "license": "Public domain",
    "width": 2056,
    "height": 1121,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6284,7 +5964,6 @@
    "license": "Public domain",
    "width": 2553,
    "height": 1914,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6302,7 +5981,6 @@
    "license": "Public domain",
    "width": 1366,
    "height": 1023,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6320,7 +5998,6 @@
    "license": "Public domain",
    "width": 1200,
    "height": 888,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -6338,7 +6015,6 @@
    "license": "Public domain",
    "width": 750,
    "height": 539,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -6356,7 +6032,6 @@
    "license": "Public domain",
    "width": 366,
    "height": 512,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -6374,7 +6049,6 @@
    "license": "Public domain",
    "width": 1981,
    "height": 1502,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -6392,7 +6066,6 @@
    "license": "Public domain",
    "width": 6517,
    "height": 4439,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -6410,7 +6083,6 @@
    "license": "Public domain",
    "width": 1260,
    "height": 915,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -6428,7 +6100,6 @@
    "license": "Public domain",
    "width": 456,
    "height": 640,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -6446,7 +6117,6 @@
    "license": "Public domain",
    "width": 3744,
    "height": 1584,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -6464,7 +6134,6 @@
    "license": "CC0",
    "width": 1454,
    "height": 1200,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6482,7 +6151,6 @@
    "license": "Public domain",
    "width": 4128,
    "height": 2322,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6500,7 +6168,6 @@
    "license": "CC0",
    "width": 5370,
    "height": 4000,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6518,7 +6185,6 @@
    "license": "CC0",
    "width": 4210,
    "height": 2807,
-   "head": null,
    "duplicateOf": "Ulisse e le Sirene, da una domus in via Graziosa (ora via Cavour) a Roma, I sec. a.C. Palazzo Massimo alle Terme -FG1.jpg",
    "complete": false,
    "concise": false
@@ -6537,7 +6203,6 @@
    "license": "CC0",
    "width": 4245,
    "height": 2830,
-   "head": null,
    "duplicateOf": "Ulisse e le Sirene, da una domus in via Graziosa (ora via Cavour) a Roma, I sec. a.C. Palazzo Massimo alle Terme -FG1.jpg",
    "complete": false,
    "concise": false
@@ -6556,7 +6221,6 @@
    "license": "Public domain",
    "width": 2000,
    "height": 2100,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6574,7 +6238,6 @@
    "license": "Public domain",
    "width": 2500,
    "height": 1750,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6592,7 +6255,6 @@
    "license": "Public domain",
    "width": 2954,
    "height": 1965,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6610,7 +6272,6 @@
    "license": "Public domain",
    "width": 516,
    "height": 704,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6628,7 +6289,6 @@
    "license": "PDM-owner",
    "width": 8954,
    "height": 5556,
-   "head": null,
    "duplicateOf": "Odysseus und die Sirenen (SM sg1332z).png",
    "complete": false,
    "concise": false
@@ -6647,7 +6307,6 @@
    "license": "Public domain",
    "width": 900,
    "height": 600,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6665,7 +6324,6 @@
    "license": "Public domain",
    "width": 3691,
    "height": 5537,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6683,7 +6341,6 @@
    "license": "Public domain",
    "width": 6497,
    "height": 3457,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6701,7 +6358,6 @@
    "license": "Public domain",
    "width": 2219,
    "height": 2387,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6719,7 +6375,6 @@
    "license": "Public domain",
    "width": 2112,
    "height": 1404,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6737,7 +6392,6 @@
    "license": "Public domain",
    "width": 900,
    "height": 733,
-   "head": null,
    "duplicateOf": "Alexander Bruckmann Odysseus und die Sirenen 1829 3.jpg",
    "complete": false,
    "concise": false
@@ -6756,7 +6410,6 @@
    "license": "Public domain",
    "width": 6353,
    "height": 5034,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6774,7 +6427,6 @@
    "license": "Public domain",
    "width": 2000,
    "height": 1631,
-   "head": null,
    "duplicateOf": "Alexander Bruckmann Odysseus und die Sirenen 1829 3.jpg",
    "complete": false,
    "concise": false
@@ -6793,7 +6445,6 @@
    "license": "Public domain",
    "width": 944,
    "height": 632,
-   "head": null,
    "duplicateOf": "The Sirens and Ulysses by William Etty.jpg",
    "complete": false,
    "concise": false
@@ -6812,7 +6463,6 @@
    "license": "Public domain",
    "width": 540,
    "height": 186,
-   "head": null,
    "duplicateOf": "The Sirens and Ulysses by William Etty.jpg",
    "complete": false,
    "concise": false
@@ -6831,7 +6481,6 @@
    "license": "Public domain",
    "width": 495,
    "height": 439,
-   "head": null,
    "duplicateOf": "The Sirens and Ulysses by William Etty.jpg",
    "complete": false,
    "concise": false
@@ -6850,7 +6499,6 @@
    "license": "Public domain",
    "width": 454,
    "height": 424,
-   "head": null,
    "duplicateOf": "The Sirens and Ulysses by William Etty.jpg",
    "complete": false,
    "concise": false
@@ -6869,7 +6517,6 @@
    "license": "Public domain",
    "width": 2048,
    "height": 1366,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6887,7 +6534,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 411,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -6905,7 +6551,6 @@
    "license": "Public domain",
    "width": 758,
    "height": 515,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -6923,7 +6568,6 @@
    "license": "Public domain",
    "width": 353,
    "height": 512,
-   "head": null,
    "duplicateOf": "Gustave Moreau-Ulysse et les sirenes-Cat. 584.jpg",
    "complete": false,
    "concise": false
@@ -6942,7 +6586,6 @@
    "license": "Public domain",
    "width": 1040,
    "height": 1260,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -6960,7 +6603,6 @@
    "license": "Public domain",
    "width": 600,
    "height": 417,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -6978,7 +6620,6 @@
    "license": "Public domain",
    "width": 1024,
    "height": 767,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -6996,7 +6637,6 @@
    "license": "Public domain",
    "width": 1195,
    "height": 1407,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -7014,7 +6654,6 @@
    "license": "Public domain",
    "width": 11006,
    "height": 5397,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -7032,7 +6671,6 @@
    "license": "Public domain",
    "width": 1296,
    "height": 641,
-   "head": null,
    "duplicateOf": "JOHN WILLIAM WATERHOUSE - Ulises y las Sirenas (National Gallery of Victoria, Melbourne, 1891. Óleo sobre lienzo, 100.6 x 202 cm).jpg",
    "complete": false,
    "concise": false
@@ -7051,7 +6689,6 @@
    "license": "Public domain",
    "width": 11009,
    "height": 5400,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -7069,7 +6706,6 @@
    "license": "Public domain",
    "width": 11001,
    "height": 5386,
-   "head": null,
    "duplicateOf": "JOHN WILLIAM WATERHOUSE - Ulises y las Sirenas (National Gallery of Victoria, Melbourne, 1891. Óleo sobre lienzo, 100.6 x 202 cm).jpg",
    "complete": false,
    "concise": false
@@ -7088,7 +6724,6 @@
    "license": "Public domain",
    "width": 2000,
    "height": 958,
-   "head": null,
    "duplicateOf": "Otto Greiner - Ulysses and the Sirens.jpg",
    "complete": false,
    "concise": false
@@ -7107,7 +6742,6 @@
    "license": "Public domain",
    "width": 699,
    "height": 1054,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7125,7 +6759,6 @@
    "license": "Public domain",
    "width": 1200,
    "height": 565,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7143,7 +6776,6 @@
    "license": "Public domain",
    "width": 1120,
    "height": 768,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7161,7 +6793,6 @@
    "license": "Public domain",
    "width": 1589,
    "height": 1311,
-   "head": null,
    "duplicateOf": "Draper-Ulysses and Sirens.jpg",
    "complete": false,
    "concise": false
@@ -7180,7 +6811,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 540,
-   "head": null,
    "duplicateOf": "Draper-Ulysses and Sirens.jpg",
    "complete": false,
    "concise": false
@@ -7199,7 +6829,6 @@
    "license": "Public domain",
    "width": 2074,
    "height": 1704,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -7217,7 +6846,6 @@
    "license": "Public domain",
    "width": 850,
    "height": 1183,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -7235,7 +6863,6 @@
    "license": "Public domain",
    "width": 1399,
    "height": 928,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -7253,7 +6880,6 @@
    "license": "Public domain",
    "width": 1600,
    "height": 1343,
-   "head": null,
    "duplicateOf": "Draper-Ulysses and Sirens.jpg",
    "complete": false,
    "concise": false
@@ -7272,7 +6898,6 @@
    "license": "Public domain",
    "width": 1024,
    "height": 846,
-   "head": null,
    "duplicateOf": "Draper-Ulysses and Sirens.jpg",
    "complete": false,
    "concise": false
@@ -7291,7 +6916,6 @@
    "license": "Public domain",
    "width": 1200,
    "height": 988,
-   "head": null,
    "duplicateOf": "Draper-Ulysses and Sirens.jpg",
    "complete": false,
    "concise": false
@@ -7310,7 +6934,6 @@
    "license": "Public domain",
    "width": 972,
    "height": 798,
-   "head": null,
    "duplicateOf": "Draper-Ulysses and Sirens.jpg",
    "complete": false,
    "concise": false
@@ -7329,7 +6952,6 @@
    "license": "Public domain",
    "width": 1150,
    "height": 700,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7347,7 +6969,6 @@
    "license": "Public domain",
    "width": 944,
    "height": 736,
-   "head": null,
    "duplicateOf": "Draper-Ulysses and Sirens.jpg",
    "complete": false,
    "concise": false
@@ -7366,7 +6987,6 @@
    "license": "Public domain",
    "width": 944,
    "height": 736,
-   "head": null,
    "duplicateOf": "Draper-Ulysses and Sirens.jpg",
    "complete": false,
    "concise": false
@@ -7385,7 +7005,6 @@
    "license": "Public domain",
    "width": 1690,
    "height": 1313,
-   "head": null,
    "duplicateOf": "Draper-Ulysses and Sirens.jpg",
    "complete": false,
    "concise": false
@@ -7404,7 +7023,6 @@
    "license": "Public domain",
    "width": 5933,
    "height": 8182,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -7422,7 +7040,6 @@
    "license": "Public domain",
    "width": 983,
    "height": 1113,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7440,7 +7057,6 @@
    "license": "CC0",
    "width": 4966,
    "height": 4906,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -7458,7 +7074,6 @@
    "license": "CC0",
    "width": 5693,
    "height": 4757,
-   "head": null,
    "duplicateOf": "Navigatie door Odysseus De werken van Odysseus (serietitel), RP-P-OB-66.746.jpg",
    "complete": false,
    "concise": false
@@ -7477,7 +7092,6 @@
    "license": "Public domain",
    "width": 950,
    "height": 1413,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7495,7 +7109,6 @@
    "license": "Public domain",
    "width": 1909,
    "height": 3200,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -7513,7 +7126,6 @@
    "license": "CC0",
    "width": 1910,
    "height": 2837,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7531,7 +7143,6 @@
    "license": "Public domain",
    "width": 3048,
    "height": 2216,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7549,7 +7160,6 @@
    "license": "Public domain",
    "width": 814,
    "height": 1024,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7567,7 +7177,6 @@
    "license": "Public domain",
    "width": 2024,
    "height": 2543,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7585,7 +7194,6 @@
    "license": "Public domain",
    "width": 546,
    "height": 726,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7603,7 +7211,6 @@
    "license": "Public domain",
    "width": 1600,
    "height": 1096,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7621,7 +7228,6 @@
    "license": "Public domain",
    "width": 2352,
    "height": 1632,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7639,7 +7245,6 @@
    "license": "Public domain",
    "width": 2290,
    "height": 1820,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7657,7 +7262,6 @@
    "license": "Public domain",
    "width": 456,
    "height": 582,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7675,7 +7279,6 @@
    "license": "Public domain",
    "width": 798,
    "height": 521,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7693,7 +7296,6 @@
    "license": "Public domain",
    "width": 4865,
    "height": 3355,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7711,7 +7313,6 @@
    "license": "Public domain",
    "width": 3682,
    "height": 2183,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -7729,7 +7330,6 @@
    "license": "Public domain",
    "width": 2536,
    "height": 1922,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -7747,7 +7347,6 @@
    "license": "Public domain",
    "width": 851,
    "height": 567,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7765,7 +7364,6 @@
    "license": "CC0",
    "width": 6636,
    "height": 4962,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -7783,7 +7381,6 @@
    "license": "CC0",
    "width": 4366,
    "height": 3740,
-   "head": null,
    "duplicateOf": "Runderen van Helios De werken van Odysseus (serietitel), RP-P-OB-66.758.jpg",
    "complete": false,
    "concise": false
@@ -7802,7 +7399,6 @@
    "license": "Public domain",
    "width": 7195,
    "height": 4686,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7820,7 +7416,6 @@
    "license": "Public domain",
    "width": 2415,
    "height": 1557,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7838,7 +7433,6 @@
    "license": "CC0",
    "width": 5000,
    "height": 3333,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -7856,7 +7450,6 @@
    "license": "CC0",
    "width": 2500,
    "height": 1869,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7874,7 +7467,6 @@
    "license": "Public domain",
    "width": 1045,
    "height": 745,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7892,7 +7484,6 @@
    "license": "Public domain",
    "width": 1395,
    "height": 1139,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7910,7 +7501,6 @@
    "license": "Public domain",
    "width": 750,
    "height": 548,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7928,7 +7518,6 @@
    "license": "Public domain",
    "width": 1400,
    "height": 929,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7946,7 +7535,6 @@
    "license": "Public domain",
    "width": 2585,
    "height": 3125,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -7964,7 +7552,6 @@
    "license": "Public domain",
    "width": 2584,
    "height": 3124,
-   "head": null,
    "duplicateOf": "Cornelis van Poelenburgh - The Goddess Calypso rescues Ulysses - Google Art Project.jpg",
    "complete": false,
    "concise": false
@@ -7983,7 +7570,6 @@
    "license": "Public domain",
    "width": 3192,
    "height": 2888,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8001,7 +7587,6 @@
    "license": "CC0",
    "width": 6570,
    "height": 4954,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8019,7 +7604,6 @@
    "license": "CC0",
    "width": 4314,
    "height": 3800,
-   "head": null,
    "duplicateOf": "Odysseus en Calypso De werken van Odysseus (serietitel), RP-P-OB-66.759.jpg",
    "complete": false,
    "concise": false
@@ -8038,7 +7622,6 @@
    "license": "Public domain",
    "width": 7195,
    "height": 4686,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8056,7 +7639,6 @@
    "license": "CC0",
    "width": 4000,
    "height": 2577,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8074,7 +7656,6 @@
    "license": "Public domain",
    "width": 4562,
    "height": 5956,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8092,7 +7673,6 @@
    "license": "Public domain",
    "width": 2639,
    "height": 3442,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -8110,7 +7690,6 @@
    "license": "Public domain",
    "width": 1625,
    "height": 2576,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8128,7 +7707,6 @@
    "license": "Public domain",
    "width": 355,
    "height": 450,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8146,7 +7724,6 @@
    "license": "Public domain",
    "width": 3168,
    "height": 4277,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -8164,7 +7741,6 @@
    "license": "Public domain",
    "width": 503,
    "height": 600,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8182,7 +7758,6 @@
    "license": "Public domain",
    "width": 6576,
    "height": 4562,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -8200,7 +7775,6 @@
    "license": "Public domain",
    "width": 1572,
    "height": 2124,
-   "head": null,
    "duplicateOf": "Arnold Böcklin 008.jpg",
    "complete": false,
    "concise": false
@@ -8219,7 +7793,6 @@
    "license": "Public domain",
    "width": 704,
    "height": 1057,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8237,7 +7810,6 @@
    "license": "CC0",
    "width": 3000,
    "height": 4000,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -8255,7 +7827,6 @@
    "license": "CC0",
    "width": 3000,
    "height": 4000,
-   "head": null,
    "duplicateOf": "Game Piece with Menelaus and Companions Battling Proteus MET DP228476.jpg",
    "complete": false,
    "concise": false
@@ -8274,7 +7845,6 @@
    "license": "CC0",
    "width": 1350,
    "height": 1457,
-   "head": null,
    "duplicateOf": "Game Piece with Menelaus and Companions Battling Proteus MET DP228476.jpg",
    "complete": false,
    "concise": false
@@ -8293,7 +7863,6 @@
    "license": "Public domain",
    "width": 1103,
    "height": 825,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8311,7 +7880,6 @@
    "license": "CC0",
    "width": 2892,
    "height": 3190,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -8329,7 +7897,6 @@
    "license": "Public domain",
    "width": 1546,
    "height": 1341,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8347,7 +7914,6 @@
    "license": "Public domain",
    "width": 480,
    "height": 537,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8365,7 +7931,6 @@
    "license": "CC0",
    "width": 3456,
    "height": 5184,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -8383,7 +7948,6 @@
    "license": "Public domain",
    "width": 2000,
    "height": 2350,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8401,7 +7965,6 @@
    "license": "Public domain",
    "width": 460,
    "height": 476,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8419,7 +7982,6 @@
    "license": "Public domain",
    "width": 2760,
    "height": 630,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8437,7 +7999,6 @@
    "license": "CC0",
    "width": 3400,
    "height": 1494,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -8455,7 +8016,6 @@
    "license": "CC0",
    "width": 6501,
    "height": 2856,
-   "head": null,
    "duplicateOf": "Clevelandart 1928.856.jpg",
    "complete": false,
    "concise": false
@@ -8474,7 +8034,6 @@
    "license": "Public domain",
    "width": 781,
    "height": 800,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8492,7 +8051,6 @@
    "license": "Public domain",
    "width": 3551,
    "height": 2802,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -8510,7 +8068,6 @@
    "license": "Public domain",
    "width": 768,
    "height": 541,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8528,7 +8085,6 @@
    "license": "CC0",
    "width": 4396,
    "height": 5590,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8546,7 +8102,6 @@
    "license": "CC0",
    "width": 4480,
    "height": 5655,
-   "head": null,
    "duplicateOf": "Histoire Ancienne.6.Les nuits de Pénelope. G.6559(1).jpg",
    "complete": false,
    "concise": false
@@ -8565,7 +8120,6 @@
    "license": "CC0",
    "width": 4024,
    "height": 4984,
-   "head": null,
    "duplicateOf": "Histoire Ancienne.6.Les nuits de Pénelope. G.6559(1).jpg",
    "complete": false,
    "concise": false
@@ -8584,7 +8138,6 @@
    "license": "CC0",
    "width": 4312,
    "height": 5570,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8602,7 +8155,6 @@
    "license": "CC0",
    "width": 4081,
    "height": 4874,
-   "head": null,
    "duplicateOf": "Histoire Ancienne.6.Les nuits de Pénélope. G.2127(1).jpg",
    "complete": false,
    "concise": false
@@ -8621,7 +8173,6 @@
    "license": "CC0",
    "width": 4463,
    "height": 5747,
-   "head": null,
    "duplicateOf": "Histoire Ancienne.6.Les nuits de Pénélope. G.2127(1).jpg",
    "complete": false,
    "concise": false
@@ -8640,7 +8191,6 @@
    "license": "Public domain",
    "width": 3710,
    "height": 5088,
-   "head": null,
    "duplicateOf": "Honoré Daumier, Les Nuits de Pénélope, 1842, NGA 57333.jpg",
    "complete": false,
    "concise": false
@@ -8659,7 +8209,6 @@
    "license": "Public domain",
    "width": 3415,
    "height": 4297,
-   "head": null,
    "duplicateOf": "Honoré Daumier, Les Nuits de Pénélope, 1842, NGA 57333.jpg",
    "complete": false,
    "concise": false
@@ -8678,7 +8227,6 @@
    "license": "Public domain",
    "width": 768,
    "height": 512,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8696,7 +8244,6 @@
    "license": "Public domain",
    "width": 524,
    "height": 475,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8714,7 +8261,6 @@
    "license": "CC0",
    "width": 3696,
    "height": 2800,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -8732,7 +8278,6 @@
    "license": "Public domain",
    "width": 852,
    "height": 1200,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8750,7 +8295,6 @@
    "license": "Public domain",
    "width": 851,
    "height": 1200,
-   "head": null,
    "duplicateOf": "Angelica Kauffmann (1741-1807) - Penelope at Her Loom - FAH1975.33 - Brighton Museum ^ Art Gallery.jpg",
    "complete": false,
    "concise": false
@@ -8769,7 +8313,6 @@
    "license": "Public domain",
    "width": 3000,
    "height": 2422,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -8787,7 +8330,6 @@
    "license": "Public domain",
    "width": 542,
    "height": 768,
-   "head": null,
    "duplicateOf": "Honoré Daumier, Les Nuits de Pénélope, 1842, NGA 57333.jpg",
    "complete": false,
    "concise": false
@@ -8806,7 +8348,6 @@
    "license": "CC0",
    "width": 2747,
    "height": 4000,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8824,7 +8365,6 @@
    "license": "Public domain",
    "width": 3615,
    "height": 4656,
-   "head": null,
    "duplicateOf": "Honoré Daumier, Les Nuits de Pénélope, 1842, NGA 57333.jpg",
    "complete": false,
    "concise": false
@@ -8843,7 +8383,6 @@
    "license": "CC0",
    "width": 3280,
    "height": 2299,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8861,7 +8400,6 @@
    "license": "CC0",
    "width": 3811,
    "height": 2683,
-   "head": null,
    "duplicateOf": "\"Penelope Unraveling Her Work at Night\" MET ADA6426.jpg",
    "complete": false,
    "concise": false
@@ -8880,7 +8418,6 @@
    "license": "Public domain",
    "width": 1048,
    "height": 850,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -8898,7 +8435,6 @@
    "license": "Public domain",
    "width": 3420,
    "height": 2878,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -8916,7 +8452,6 @@
    "license": "Public domain",
    "width": 877,
    "height": 740,
-   "head": null,
    "duplicateOf": "Pinturicchio - The Return of Odysseus - WGA17830.jpg",
    "complete": false,
    "concise": false
@@ -8935,7 +8470,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 728,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8953,7 +8487,6 @@
    "license": "Public domain",
    "width": 2124,
    "height": 1548,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -8971,7 +8504,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 429,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -8989,7 +8521,6 @@
    "license": "Public domain",
    "width": 500,
    "height": 344,
-   "head": null,
    "duplicateOf": "JohnWilliamWaterhouse-PenelopeandtheSuitors(1912).jpg",
    "complete": false,
    "concise": false
@@ -9008,7 +8539,6 @@
    "license": "Public domain",
    "width": 900,
    "height": 612,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9026,7 +8556,6 @@
    "license": "Public domain",
    "width": 2196,
    "height": 1584,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9044,7 +8573,6 @@
    "license": "CC0",
    "width": 5258,
    "height": 3324,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9062,7 +8590,6 @@
    "license": "Public domain",
    "width": 2388,
    "height": 1524,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9080,7 +8607,6 @@
    "license": "Public domain",
    "width": 2350,
    "height": 1350,
-   "head": null,
    "duplicateOf": "OdysseyTelemachos.png",
    "complete": false,
    "concise": false
@@ -9099,7 +8625,6 @@
    "license": "Public domain",
    "width": 639,
    "height": 477,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9117,7 +8642,6 @@
    "license": "CC0",
    "width": 1721,
    "height": 3168,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9135,7 +8659,6 @@
    "license": "CC0",
    "width": 3656,
    "height": 2836,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9153,7 +8676,6 @@
    "license": "Public domain",
    "width": 516,
    "height": 701,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9171,7 +8693,6 @@
    "license": "Public domain",
    "width": 484,
    "height": 604,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9189,7 +8710,6 @@
    "license": "Public domain",
    "width": 970,
    "height": 1300,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9207,7 +8727,6 @@
    "license": "Public domain",
    "width": 1113,
    "height": 1569,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9225,7 +8744,6 @@
    "license": "Public domain",
    "width": 1143,
    "height": 854,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9243,7 +8761,6 @@
    "license": "CC0",
    "width": 4400,
    "height": 5620,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9261,7 +8778,6 @@
    "license": "CC0",
    "width": 4300,
    "height": 5558,
-   "head": null,
    "duplicateOf": "Telemachus en Nestor in omhelzing Avonturen van Telemachus (serietitel), RP-P-OB-52.057.jpg",
    "complete": false,
    "concise": false
@@ -9280,7 +8796,6 @@
    "license": "CC0",
    "width": 3042,
    "height": 4000,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9298,7 +8813,6 @@
    "license": "Public domain",
    "width": 720,
    "height": 455,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9316,7 +8830,6 @@
    "license": "CC0",
    "width": 5050,
    "height": 6972,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9334,7 +8847,6 @@
    "license": "CC0",
    "width": 5706,
    "height": 7186,
-   "head": null,
    "duplicateOf": "Telemachus bezoekt Nestor op het eiland Pylon, RP-P-1904-3075.jpg",
    "complete": false,
    "concise": false
@@ -9353,7 +8865,6 @@
    "license": "Public domain",
    "width": 1145,
    "height": 864,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9371,7 +8882,6 @@
    "license": "Public domain",
    "width": 3106,
    "height": 2340,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9389,7 +8899,6 @@
    "license": "CC0",
    "width": 1920,
    "height": 1920,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9407,7 +8916,6 @@
    "license": "Public domain",
    "width": 1250,
    "height": 932,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9425,7 +8933,6 @@
    "license": "Public domain",
    "width": 600,
    "height": 703,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9443,7 +8950,6 @@
    "license": "Public domain",
    "width": 850,
    "height": 1565,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9461,7 +8967,6 @@
    "license": "Public domain",
    "width": 755,
    "height": 840,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9479,7 +8984,6 @@
    "license": "Public domain",
    "width": 341,
    "height": 512,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -9497,7 +9001,6 @@
    "license": "Public domain",
    "width": 893,
    "height": 1200,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9515,7 +9018,6 @@
    "license": "Public domain",
    "width": 985,
    "height": 1566,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -9533,7 +9035,6 @@
    "license": "Public domain",
    "width": 956,
    "height": 1567,
-   "head": null,
    "duplicateOf": "Pénélope, Laërte et Télémaque BnF Français 874 fol. 3v.JPEG",
    "complete": false,
    "concise": false
@@ -9552,7 +9053,6 @@
    "license": "CC0",
    "width": 3456,
    "height": 5184,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9570,7 +9070,6 @@
    "license": "Public domain",
    "width": 882,
    "height": 1200,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9588,7 +9087,6 @@
    "license": "Public domain",
    "width": 1784,
    "height": 1467,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9606,7 +9104,6 @@
    "license": "Public domain",
    "width": 900,
    "height": 666,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9624,7 +9121,6 @@
    "license": "Public domain",
    "width": 2256,
    "height": 3053,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9642,7 +9138,6 @@
    "license": "CC0",
    "width": 2746,
    "height": 3747,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -9660,7 +9155,6 @@
    "license": "CC0",
    "width": 3456,
    "height": 5184,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9678,7 +9172,6 @@
    "license": "Public domain",
    "width": 2112,
    "height": 2816,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -9696,7 +9189,6 @@
    "license": "Public domain",
    "width": 606,
    "height": 850,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -9714,7 +9206,6 @@
    "license": "Public domain",
    "width": 1120,
    "height": 1648,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -9732,7 +9223,6 @@
    "license": "Public domain",
    "width": 2112,
    "height": 2816,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -9750,7 +9240,6 @@
    "license": "CC0",
    "width": 3648,
    "height": 5472,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9768,7 +9257,6 @@
    "license": "CC0",
    "width": 3648,
    "height": 5472,
-   "head": null,
    "duplicateOf": "Penelope by Franklin Simmons, 1896, marble, view 1 - De Young Museum - DSC00897.JPG",
    "complete": false,
    "concise": false
@@ -9787,7 +9275,6 @@
    "license": "CC0",
    "width": 3648,
    "height": 5472,
-   "head": null,
    "duplicateOf": "Penelope by Franklin Simmons, 1896, marble, view 1 - De Young Museum - DSC00897.JPG",
    "complete": false,
    "concise": false
@@ -9806,7 +9293,6 @@
    "license": "Public domain",
    "width": 1500,
    "height": 1184,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -9824,7 +9310,6 @@
    "license": "CC0",
    "width": 1725,
    "height": 2265,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -9842,7 +9327,6 @@
    "license": "Public domain",
    "width": 5504,
    "height": 6380,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -9860,7 +9344,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 1149,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9878,7 +9361,6 @@
    "license": "Public domain",
    "width": 1934,
    "height": 3400,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9896,7 +9378,6 @@
    "license": "Public domain",
    "width": 443,
    "height": 600,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9914,7 +9395,6 @@
    "license": "Public domain",
    "width": 1495,
    "height": 2000,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9932,7 +9412,6 @@
    "license": "Public domain",
    "width": 725,
    "height": 977,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -9950,7 +9429,6 @@
    "license": "Public domain",
    "width": 6752,
    "height": 4334,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9968,7 +9446,6 @@
    "license": "No restrictions",
    "width": 2672,
    "height": 1700,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -9986,7 +9463,6 @@
    "license": "Public domain",
    "width": 554,
    "height": 800,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -10004,7 +9480,6 @@
    "license": "Public domain",
    "width": 4516,
    "height": 3088,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -10022,7 +9497,6 @@
    "license": "Public domain",
    "width": 1053,
    "height": 564,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10040,7 +9514,6 @@
    "license": "Public domain",
    "width": 928,
    "height": 1273,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10058,7 +9531,6 @@
    "license": "Public domain",
    "width": 547,
    "height": 1250,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -10076,7 +9548,6 @@
    "license": "Public domain",
    "width": 1416,
    "height": 1661,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -10094,7 +9565,6 @@
    "license": "Public domain",
    "width": 823,
    "height": 633,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -10112,7 +9582,6 @@
    "license": "Public domain",
    "width": 3400,
    "height": 2773,
-   "head": null,
    "duplicateOf": "'Hermes Ordering Calypso to Release Odysseus' by Gerard de Lairesse, c. 1670.JPG",
    "complete": false,
    "concise": false
@@ -10131,7 +9600,6 @@
    "license": "CC0",
    "width": 6200,
    "height": 4628,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10149,7 +9617,6 @@
    "license": "CC0",
    "width": 6120,
    "height": 4624,
-   "head": null,
    "duplicateOf": "Mercurius beveelt Calypso om Odysseus te laten vertrekken, RP-P-1878-A-1193.jpg",
    "complete": false,
    "concise": false
@@ -10168,7 +9635,6 @@
    "license": "CC0",
    "width": 5916,
    "height": 4498,
-   "head": null,
    "duplicateOf": "Mercurius beveelt Calypso om Odysseus te laten vertrekken, RP-P-1878-A-1193.jpg",
    "complete": false,
    "concise": false
@@ -10187,7 +9653,6 @@
    "license": "Public domain",
    "width": 2760,
    "height": 2235,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -10205,7 +9670,6 @@
    "license": "Public domain",
    "width": 13940,
    "height": 11371,
-   "head": null,
    "duplicateOf": "'Hermes Ordering Calypso to Release Odysseus' by Gerard de Lairesse, c. 1670.JPG",
    "complete": false,
    "concise": false
@@ -10224,7 +9688,6 @@
    "license": "CC0",
    "width": 6250,
    "height": 4756,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10242,7 +9705,6 @@
    "license": "Public domain",
    "width": 2026,
    "height": 2754,
-   "head": null,
    "duplicateOf": "Mercurius gelast Calypso om Odysseus te laten vertrekken, SK-A-212.jpg",
    "complete": false,
    "concise": false
@@ -10261,7 +9723,6 @@
    "license": "CC0",
    "width": 4702,
    "height": 6392,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -10279,7 +9740,6 @@
    "license": "CC0",
    "width": 2108,
    "height": 3178,
-   "head": null,
    "duplicateOf": "Mercurius gelast Calypso om Odysseus te laten vertrekken, SK-A-212.jpg",
    "complete": false,
    "concise": false
@@ -10298,7 +9758,6 @@
    "license": "CC0",
    "width": 6580,
    "height": 5566,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10316,7 +9775,6 @@
    "license": "Public domain",
    "width": 1884,
    "height": 1488,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10334,7 +9792,6 @@
    "license": "CC0",
    "width": 6104,
    "height": 4214,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10352,7 +9809,6 @@
    "license": "Public domain",
    "width": 1200,
    "height": 781,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -10370,7 +9826,6 @@
    "license": "Public domain",
    "width": 768,
    "height": 490,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -10388,7 +9843,6 @@
    "license": "Public domain",
    "width": 512,
    "height": 690,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10406,7 +9860,6 @@
    "license": "Public domain",
    "width": 552,
    "height": 761,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10424,7 +9877,6 @@
    "license": "Public domain",
    "width": 531,
    "height": 640,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10442,7 +9894,6 @@
    "license": "Public domain",
    "width": 600,
    "height": 998,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -10460,7 +9911,6 @@
    "license": "Public domain",
    "width": 2082,
    "height": 3706,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10478,7 +9928,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 737,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -10496,7 +9945,6 @@
    "license": "Public domain",
    "width": 2560,
    "height": 1818,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10514,7 +9962,6 @@
    "license": "Public domain",
    "width": 1354,
    "height": 668,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -10532,7 +9979,6 @@
    "license": "Public domain",
    "width": 513,
    "height": 702,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10550,7 +9996,6 @@
    "license": "PDM-owner",
    "width": 7769,
    "height": 5451,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10568,7 +10013,6 @@
    "license": "CC0",
    "width": 3204,
    "height": 3666,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10586,7 +10030,6 @@
    "license": "Public domain",
    "width": 2024,
    "height": 2565,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -10604,7 +10047,6 @@
    "license": "Public domain",
    "width": 2388,
    "height": 1536,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10622,7 +10064,6 @@
    "license": "Public domain",
    "width": 2388,
    "height": 1384,
-   "head": null,
    "duplicateOf": "OdysseyLeukothea.png",
    "complete": false,
    "concise": false
@@ -10641,7 +10082,6 @@
    "license": "Public domain",
    "width": 599,
    "height": 999,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10659,7 +10099,6 @@
    "license": "Public domain",
    "width": 1399,
    "height": 1068,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10677,7 +10116,6 @@
    "license": "CC0",
    "width": 3902,
    "height": 6564,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -10695,7 +10133,6 @@
    "license": "Public domain",
    "width": 2322,
    "height": 1584,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10713,7 +10150,6 @@
    "license": "Public domain",
    "width": 773,
    "height": 1748,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10731,7 +10167,6 @@
    "license": "Public domain",
    "width": 775,
    "height": 422,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10749,7 +10184,6 @@
    "license": "Public domain",
    "width": 4887,
    "height": 3327,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10767,7 +10201,6 @@
    "license": "Public domain",
    "width": 4426,
    "height": 5633,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10785,7 +10218,6 @@
    "license": "Public domain",
    "width": 4758,
    "height": 6965,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10803,7 +10235,6 @@
    "license": "Public domain",
    "width": 1311,
    "height": 1179,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -10821,7 +10252,6 @@
    "license": "Public domain",
    "width": 512,
    "height": 457,
-   "head": null,
    "duplicateOf": "William McGregor Paxton Nausicaa (2).jpg",
    "complete": false,
    "concise": false
@@ -10840,7 +10270,6 @@
    "license": "Public domain",
    "width": 1600,
    "height": 1399,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -10858,7 +10287,6 @@
    "license": "Public domain",
    "width": 766,
    "height": 599,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -10876,7 +10304,6 @@
    "license": "Public domain",
    "width": 1020,
    "height": 806,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10894,7 +10321,6 @@
    "license": "Public domain",
    "width": 500,
    "height": 336,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -10912,7 +10338,6 @@
    "license": "Public domain",
    "width": 1423,
    "height": 900,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10930,7 +10355,6 @@
    "license": "Public domain",
    "width": 2400,
    "height": 1713,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10948,7 +10372,6 @@
    "license": "Public domain",
    "width": 7536,
    "height": 4602,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -10966,7 +10389,6 @@
    "license": "Public domain",
    "width": 1952,
    "height": 1193,
-   "head": null,
    "duplicateOf": "Joachim von Sandrart - Odysseus und Nausikaa (Rijksmuseum Amsterdam).jpg",
    "complete": false,
    "concise": false
@@ -10985,7 +10407,6 @@
    "license": "CC0",
    "width": 7536,
    "height": 4602,
-   "head": null,
    "duplicateOf": "Joachim von Sandrart - Odysseus und Nausikaa (Rijksmuseum Amsterdam).jpg",
    "complete": false,
    "concise": false
@@ -11004,7 +10425,6 @@
    "license": "Public domain",
    "width": 2500,
    "height": 1527,
-   "head": null,
    "duplicateOf": "Joachim von Sandrart - Odysseus und Nausikaa (Rijksmuseum Amsterdam).jpg",
    "complete": false,
    "concise": false
@@ -11023,7 +10443,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 569,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11041,7 +10460,6 @@
    "license": "Public domain",
    "width": 594,
    "height": 458,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11059,7 +10477,6 @@
    "license": "Public domain",
    "width": 1280,
    "height": 1012,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -11077,7 +10494,6 @@
    "license": "Public domain",
    "width": 1716,
    "height": 2100,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -11095,7 +10511,6 @@
    "license": "Public domain",
    "width": 1716,
    "height": 2100,
-   "head": null,
    "duplicateOf": "Odysseus and Nausicaa LACMA 49.17.4.jpg",
    "complete": false,
    "concise": false
@@ -11114,7 +10529,6 @@
    "license": "Public domain",
    "width": 5825,
    "height": 6927,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11132,7 +10546,6 @@
    "license": "Public domain",
    "width": 918,
    "height": 1253,
-   "head": null,
    "duplicateOf": "Odysseus and Nausicaa LACMA 49.17.4.jpg",
    "complete": false,
    "concise": false
@@ -11151,7 +10564,6 @@
    "license": "Public domain",
    "width": 3840,
    "height": 5649,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11169,7 +10581,6 @@
    "license": "CC0",
    "width": 4381,
    "height": 5593,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11187,7 +10598,6 @@
    "license": "CC0",
    "width": 3998,
    "height": 4911,
-   "head": null,
    "duplicateOf": "Histoire Ancienne.4.Présentation d'Ulysse à Nautica. G.6557(1).jpg",
    "complete": false,
    "concise": false
@@ -11206,7 +10616,6 @@
    "license": "CC0",
    "width": 4206,
    "height": 5513,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11224,7 +10633,6 @@
    "license": "CC0",
    "width": 4479,
    "height": 5771,
-   "head": null,
    "duplicateOf": "Histoire ancienne.4.Présentation d'Ulysse à Nausica. G.2126(1).jpg",
    "complete": false,
    "concise": false
@@ -11243,7 +10651,6 @@
    "license": "Public domain",
    "width": 5906,
    "height": 4353,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -11261,7 +10668,6 @@
    "license": "Public domain",
    "width": 4311,
    "height": 4977,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -11279,7 +10685,6 @@
    "license": "Public domain",
    "width": 956,
    "height": 640,
-   "head": null,
    "duplicateOf": "The Meeting of Odysseus and Nausicaa - Jacob Jordaens (I).jpg",
    "complete": false,
    "concise": false
@@ -11298,7 +10703,6 @@
    "license": "Public domain",
    "width": 1152,
    "height": 781,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -11316,7 +10720,6 @@
    "license": "Public domain",
    "width": 7848,
    "height": 4680,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -11334,7 +10737,6 @@
    "license": "Public domain",
    "width": 547,
    "height": 685,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11352,7 +10754,6 @@
    "license": "Public domain",
    "width": 2866,
    "height": 2331,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -11370,7 +10771,6 @@
    "license": "Public domain",
    "width": 1862,
    "height": 2616,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -11388,7 +10788,6 @@
    "license": "Public domain",
    "width": 600,
    "height": 375,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11406,7 +10805,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 697,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -11424,7 +10822,6 @@
    "license": "Public domain",
    "width": 2440,
    "height": 1612,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11442,7 +10839,6 @@
    "license": "CC0",
    "width": 1062,
    "height": 501,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11460,7 +10856,6 @@
    "license": "Public domain",
    "width": 3744,
    "height": 5545,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11478,7 +10873,6 @@
    "license": "PDM-owner",
    "width": 9399,
    "height": 5868,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11496,7 +10890,6 @@
    "license": "PDM-owner",
    "width": 9385,
    "height": 5847,
-   "head": null,
    "duplicateOf": "Odysseus' Ankunft bei den Phäaken- Odysseus fleht Nausikaa um Hilfe an (SM 1819vz).png",
    "complete": false,
    "concise": false
@@ -11515,7 +10908,6 @@
    "license": "Public domain",
    "width": 1280,
    "height": 899,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -11533,7 +10925,6 @@
    "license": "Public domain",
    "width": 2322,
    "height": 1436,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11551,7 +10942,6 @@
    "license": "Public domain",
    "width": 2024,
    "height": 1444,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -11569,7 +10959,6 @@
    "license": "Public domain",
    "width": 2123,
    "height": 2829,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -11587,7 +10976,6 @@
    "license": "Public domain",
    "width": 1093,
    "height": 1213,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11605,7 +10993,6 @@
    "license": "Public domain",
    "width": 805,
    "height": 593,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -11623,7 +11010,6 @@
    "license": "CC0",
    "width": 2519,
    "height": 3400,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11641,7 +11027,6 @@
    "license": "CC0",
    "width": 3380,
    "height": 4562,
-   "head": null,
    "duplicateOf": "Honoré Daumier - Ancient History, plate 4- The Presentation of Ulysses to Nausica - 1965.540 - Cleveland Museum of Art.jpg",
    "complete": false,
    "concise": false
@@ -11660,7 +11045,6 @@
    "license": "Public domain",
    "width": 500,
    "height": 312,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11678,7 +11062,6 @@
    "license": "Public domain",
    "width": 600,
    "height": 364,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11696,7 +11079,6 @@
    "license": "Public domain",
    "width": 640,
    "height": 398,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11714,7 +11096,6 @@
    "license": "Public domain",
    "width": 601,
    "height": 372,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11732,7 +11113,6 @@
    "license": "Public domain",
    "width": 2000,
    "height": 1483,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -11750,7 +11130,6 @@
    "license": "CC0",
    "width": 4638,
    "height": 6656,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11768,7 +11147,6 @@
    "license": "Public domain",
    "width": 1414,
    "height": 1772,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11786,7 +11164,6 @@
    "license": "Public domain",
    "width": 1184,
    "height": 929,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -11804,7 +11181,6 @@
    "license": "Public domain",
    "width": 432,
    "height": 768,
-   "head": null,
    "duplicateOf": "Jean Veber - Ulysses and Nausicaa, 1888.jpg",
    "complete": false,
    "concise": false
@@ -11823,7 +11199,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 570,
-   "head": null,
    "duplicateOf": "Odysseus and Nausicaa by Valentin Serov (drawing, GTG).jpg",
    "complete": false,
    "concise": false
@@ -11842,7 +11217,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 199,
-   "head": null,
    "duplicateOf": "Odysseus and Nausicaa by Valentin Serov (drawing, GTG).jpg",
    "complete": false,
    "concise": false
@@ -11861,7 +11235,6 @@
    "license": "Public domain",
    "width": 553,
    "height": 728,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11879,7 +11252,6 @@
    "license": "Public domain",
    "width": 1199,
    "height": 1024,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -11897,7 +11269,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 762,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11915,7 +11286,6 @@
    "license": "Public domain",
    "width": 2024,
    "height": 1680,
-   "head": null,
    "duplicateOf": "Валентин Александрович Серов - Одиссей и Навсикая.jpg",
    "complete": false,
    "concise": false
@@ -11934,7 +11304,6 @@
    "license": "Public domain",
    "width": 3072,
    "height": 2304,
-   "head": null,
    "duplicateOf": "Валентин Александрович Серов - Одиссей и Навсикая.jpg",
    "complete": false,
    "concise": false
@@ -11953,7 +11322,6 @@
    "license": "Public domain",
    "width": 3427,
    "height": 1636,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11971,7 +11339,6 @@
    "license": "Public domain",
    "width": 2369,
    "height": 1706,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -11989,7 +11356,6 @@
    "license": "Public domain",
    "width": 504,
    "height": 695,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -12007,7 +11373,6 @@
    "license": "Public domain",
    "width": 717,
    "height": 839,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -12025,7 +11390,6 @@
    "license": "Public domain",
    "width": 7867,
    "height": 9845,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -12043,7 +11407,6 @@
    "license": "Public domain",
    "width": 617,
    "height": 768,
-   "head": null,
    "duplicateOf": "Wilhelm Marstrand, Nausikaa bringer den skibbrudne Odysseus klæder, 1835, kms3891, Statens Museum for Kunst.jpg",
    "complete": false,
    "concise": false
@@ -12062,7 +11425,6 @@
    "license": "Public domain",
    "width": 1019,
    "height": 717,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12080,7 +11442,6 @@
    "license": "Public domain",
    "width": 3120,
    "height": 2744,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12098,7 +11459,6 @@
    "license": "CC0",
    "width": 6610,
    "height": 5014,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12116,7 +11476,6 @@
    "license": "CC0",
    "width": 5793,
    "height": 4759,
-   "head": null,
    "duplicateOf": "Odysseus neemt afscheid van Alcinoüs De werken van Odysseus (serietitel), RP-P-OB-66.760.jpg",
    "complete": false,
    "concise": false
@@ -12135,7 +11494,6 @@
    "license": "CC0",
    "width": 6184,
    "height": 4186,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12153,7 +11511,6 @@
    "license": "Public domain",
    "width": 3504,
    "height": 2834,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12171,7 +11528,6 @@
    "license": "Public domain",
    "width": 9150,
    "height": 6052,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -12189,7 +11545,6 @@
    "license": "Public domain",
    "width": 1828,
    "height": 1146,
-   "head": null,
    "duplicateOf": "Odysseus bids the Phaeacians farewell - Unknown - Google Cultural Institute.jpg",
    "complete": false,
    "concise": false
@@ -12208,7 +11563,6 @@
    "license": "Public domain",
    "width": 5236,
    "height": 3284,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12226,7 +11580,6 @@
    "license": "Public domain",
    "width": 7160,
    "height": 3718,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12244,7 +11597,6 @@
    "license": "Public domain",
    "width": 1504,
    "height": 1000,
-   "head": null,
    "duplicateOf": "Jean-Jacques Lagrenée - Ulysse dans le palais d'Alcinoüs 02.jpg",
    "complete": false,
    "concise": false
@@ -12263,7 +11615,6 @@
    "license": "Public domain",
    "width": 5582,
    "height": 3829,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -12281,7 +11632,6 @@
    "license": "Public domain",
    "width": 5506,
    "height": 3645,
-   "head": null,
    "duplicateOf": "Jean-Jacques Lagrenée - Ulysse dans le palais d'Alcinoüs 02.jpg",
    "complete": false,
    "concise": false
@@ -12300,7 +11650,6 @@
    "license": "Public domain",
    "width": 6000,
    "height": 4000,
-   "head": null,
    "duplicateOf": "Jean-Jacques Lagrenée - Ulysse dans le palais d'Alcinoüs 02.jpg",
    "complete": false,
    "concise": false
@@ -12319,7 +11668,6 @@
    "license": "Public domain",
    "width": 4557,
    "height": 2987,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -12337,7 +11685,6 @@
    "license": "Public domain",
    "width": 2412,
    "height": 1512,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12355,7 +11702,6 @@
    "license": "Public domain",
    "width": 2878,
    "height": 1746,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12373,7 +11719,6 @@
    "license": "Public domain",
    "width": 603,
    "height": 376,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12391,7 +11736,6 @@
    "license": "Public domain",
    "width": 3580,
    "height": 2992,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12409,7 +11753,6 @@
    "license": "Public domain",
    "width": 739,
    "height": 596,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12427,7 +11770,6 @@
    "license": "Public domain",
    "width": 4125,
    "height": 3500,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12445,7 +11787,6 @@
    "license": "CC0",
    "width": 4000,
    "height": 3780,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12463,7 +11804,6 @@
    "license": "Public domain",
    "width": 1825,
    "height": 2455,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -12481,7 +11821,6 @@
    "license": "Public domain",
    "width": 1587,
    "height": 1800,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -12499,7 +11838,6 @@
    "license": "Public domain",
    "width": 594,
    "height": 510,
-   "head": null,
    "duplicateOf": "1549 Bordon Mars und Venus, von Vulkan überrascht Gemäldegalerie anagoria.jpg",
    "complete": false,
    "concise": false
@@ -12518,7 +11856,6 @@
    "license": "Public domain",
    "width": 4000,
    "height": 3420,
-   "head": null,
    "duplicateOf": "1549 Bordon Mars und Venus, von Vulkan überrascht Gemäldegalerie anagoria.jpg",
    "complete": false,
    "concise": false
@@ -12537,7 +11874,6 @@
    "license": "Public domain",
    "width": 1317,
    "height": 1270,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -12555,7 +11891,6 @@
    "license": "Public domain",
    "width": 602,
    "height": 576,
-   "head": null,
    "duplicateOf": "Maerten van Heemskerck, Kunsthistorisches Museum Wien, Gemäldegalerie - Vulkan zeigt den Göttern die in seinem Netz gefangenen Venus und Mars - GG 6395 - Kunsthistorisches Museum.jpg",
    "complete": false,
    "concise": false
@@ -12574,7 +11909,6 @@
    "license": "Public domain",
    "width": 1040,
    "height": 750,
-   "head": null,
    "duplicateOf": "Jacopo Tintoretto - Venus, Mars, and Vulcan - WGA22664.jpg",
    "complete": false,
    "concise": false
@@ -12593,7 +11927,6 @@
    "license": "Public domain",
    "width": 1259,
    "height": 850,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -12611,7 +11944,6 @@
    "license": "Public domain",
    "width": 3000,
    "height": 2034,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12629,7 +11961,6 @@
    "license": "Public domain",
    "width": 1225,
    "height": 809,
-   "head": null,
    "duplicateOf": "Jacopo Tintoretto 035.jpg",
    "complete": false,
    "concise": false
@@ -12648,7 +11979,6 @@
    "license": "CC0",
    "width": 4886,
    "height": 4028,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12666,7 +11996,6 @@
    "license": "CC0",
    "width": 4874,
    "height": 3986,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12684,7 +12013,6 @@
    "license": "Public domain",
    "width": 3250,
    "height": 4303,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -12702,7 +12030,6 @@
    "license": "CC0",
    "width": 2962,
    "height": 4000,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12720,7 +12047,6 @@
    "license": "CC0",
    "width": 2894,
    "height": 3880,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12738,7 +12064,6 @@
    "license": "Public domain",
    "width": 3283,
    "height": 4422,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12756,7 +12081,6 @@
    "license": "CC0",
    "width": 3740,
    "height": 2560,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12774,7 +12098,6 @@
    "license": "CC0",
    "width": 5412,
    "height": 3658,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12792,7 +12115,6 @@
    "license": "Public domain",
    "width": 1833,
    "height": 2543,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -12810,7 +12132,6 @@
    "license": "CC0",
    "width": 5160,
    "height": 3684,
-   "head": null,
    "duplicateOf": "Venus en Mars betrapt door Vulcanus, RP-P-OB-10.346.jpg",
    "complete": false,
    "concise": false
@@ -12829,7 +12150,6 @@
    "license": "Public domain",
    "width": 2250,
    "height": 1402,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -12847,7 +12167,6 @@
    "license": "Public domain",
    "width": 436,
    "height": 617,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -12865,7 +12184,6 @@
    "license": "Public domain",
    "width": 1061,
    "height": 1400,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -12883,7 +12201,6 @@
    "license": "CC0",
    "width": 6374,
    "height": 4702,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12901,7 +12218,6 @@
    "license": "CC0",
    "width": 4100,
    "height": 6048,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12919,7 +12235,6 @@
    "license": "Public domain",
    "width": 1243,
    "height": 1650,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -12937,7 +12252,6 @@
    "license": "Public domain",
    "width": 680,
    "height": 564,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -12955,7 +12269,6 @@
    "license": "Public domain",
    "width": 2532,
    "height": 2753,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -12973,7 +12286,6 @@
    "license": "Public domain",
    "width": 850,
    "height": 1128,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -12991,7 +12303,6 @@
    "license": "Public domain",
    "width": 2000,
    "height": 1365,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13009,7 +12320,6 @@
    "license": "Public domain",
    "width": 1999,
    "height": 683,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13027,7 +12337,6 @@
    "license": "Public domain",
    "width": 1999,
    "height": 683,
-   "head": null,
    "duplicateOf": "Antonio Bellucci - Mars and Venus Entrapped by Vulcan.jpg",
    "complete": false,
    "concise": false
@@ -13046,7 +12355,6 @@
    "license": "CC0",
    "width": 4000,
    "height": 1899,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -13064,7 +12372,6 @@
    "license": "Public domain",
    "width": 1800,
    "height": 1351,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13082,7 +12389,6 @@
    "license": "Public domain",
    "width": 4362,
    "height": 3090,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13100,7 +12406,6 @@
    "license": "Public domain",
    "width": 2000,
    "height": 1487,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13118,7 +12423,6 @@
    "license": "Public domain",
    "width": 512,
    "height": 660,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13136,7 +12440,6 @@
    "license": "Public domain",
    "width": 829,
    "height": 1145,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13154,7 +12457,6 @@
    "license": "Public domain",
    "width": 1881,
    "height": 1230,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13172,7 +12474,6 @@
    "license": "Public domain",
    "width": 4104,
    "height": 3555,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13190,7 +12491,6 @@
    "license": "Public domain",
    "width": 1424,
    "height": 1275,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13208,7 +12508,6 @@
    "license": "Public domain",
    "width": 600,
    "height": 478,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13226,7 +12525,6 @@
    "license": "Public domain",
    "width": 2184,
    "height": 1676,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13244,7 +12542,6 @@
    "license": "Public domain",
    "width": 960,
    "height": 659,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13262,7 +12559,6 @@
    "license": "Public domain",
    "width": 2048,
    "height": 1409,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13280,7 +12576,6 @@
    "license": "Public domain",
    "width": 3031,
    "height": 2263,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13298,7 +12593,6 @@
    "license": "Public domain",
    "width": 886,
    "height": 605,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13316,7 +12610,6 @@
    "license": "Public domain",
    "width": 500,
    "height": 1192,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13334,7 +12627,6 @@
    "license": "Public domain",
    "width": 573,
    "height": 559,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13352,7 +12644,6 @@
    "license": "Public domain",
    "width": 4023,
    "height": 5145,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13370,7 +12661,6 @@
    "license": "Public domain",
    "width": 4022,
    "height": 5144,
-   "head": null,
    "duplicateOf": "Guillemot, Alexandre Charles - Mars and Venus Surprised by Vulcan - Google Art Project.jpg",
    "complete": false,
    "concise": false
@@ -13389,7 +12679,6 @@
    "license": "Public domain",
    "width": 2866,
    "height": 3047,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13407,7 +12696,6 @@
    "license": "Public domain",
    "width": 1024,
    "height": 768,
-   "head": null,
    "duplicateOf": "Guillemot, Alexandre Charles - Mars and Venus Surprised by Vulcan - Google Art Project.jpg",
    "complete": false,
    "concise": false
@@ -13426,7 +12714,6 @@
    "license": "Public domain",
    "width": 2518,
    "height": 3246,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -13444,7 +12731,6 @@
    "license": "Public domain",
    "width": 1024,
    "height": 944,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -13462,7 +12748,6 @@
    "license": "Public domain",
    "width": 679,
    "height": 600,
-   "head": null,
    "duplicateOf": "Paris Bordone - Venere Marte e Vulcano (particolare) - Staatliche Museen, Berlin.jpg",
    "complete": false,
    "concise": false
@@ -13481,7 +12766,6 @@
    "license": "Public domain",
    "width": 2469,
    "height": 1557,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -13499,7 +12783,6 @@
    "license": "Public domain",
    "width": 3136,
    "height": 2728,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13517,7 +12800,6 @@
    "license": "CC0",
    "width": 6588,
    "height": 4910,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13535,7 +12817,6 @@
    "license": "CC0",
    "width": 4318,
    "height": 3590,
-   "head": null,
    "duplicateOf": "Faiaken brengen de slapende Odysseus naar Ithaca De werken van Odysseus (serietitel), RP-P-OB-66.761.jpg",
    "complete": false,
    "concise": false
@@ -13554,7 +12835,6 @@
    "license": "Public domain",
    "width": 1035,
    "height": 770,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13572,7 +12852,6 @@
    "license": "Public domain",
    "width": 1035,
    "height": 770,
-   "head": null,
    "duplicateOf": "P1010977 Paris Louvre Claude Gellée L'embarquement d'Ulysee reductwk.JPG",
    "complete": false,
    "concise": false
@@ -13591,7 +12870,6 @@
    "license": "Public domain",
    "width": 2000,
    "height": 1585,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -13609,7 +12887,6 @@
    "license": "CC0",
    "width": 3404,
    "height": 2707,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13627,7 +12904,6 @@
    "license": "CC0",
    "width": 3837,
    "height": 2614,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -13645,7 +12921,6 @@
    "license": "Public domain",
    "width": 1280,
    "height": 848,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -13663,7 +12938,6 @@
    "license": "CC0",
    "width": 5186,
    "height": 4502,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13681,7 +12955,6 @@
    "license": "Public domain",
    "width": 1468,
    "height": 1772,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13699,7 +12972,6 @@
    "license": "CC0",
    "width": 2500,
    "height": 1643,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13717,7 +12989,6 @@
    "license": "Public domain",
    "width": 3152,
    "height": 2648,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13735,7 +13006,6 @@
    "license": "Public domain",
    "width": 3136,
    "height": 2664,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13753,7 +13023,6 @@
    "license": "CC0",
    "width": 6628,
    "height": 5014,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13771,7 +13040,6 @@
    "license": "CC0",
    "width": 6638,
    "height": 5036,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13789,7 +13057,6 @@
    "license": "CC0",
    "width": 6518,
    "height": 4980,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13807,7 +13074,6 @@
    "license": "CC0",
    "width": 5783,
    "height": 4757,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13825,7 +13091,6 @@
    "license": "CC0",
    "width": 4288,
    "height": 3576,
-   "head": null,
    "duplicateOf": "Minerva verschijnt in de gedaante van Telemachus aan Odysseus De werken van Odysseus (serietitel), RP-P-OB-66.763.jpg",
    "complete": false,
    "concise": false
@@ -13844,7 +13109,6 @@
    "license": "CC0",
    "width": 5787,
    "height": 4758,
-   "head": null,
    "duplicateOf": "Odysseus en Minerva in het badhuis De werken van Odysseus (serietitel), RP-P-OB-66.776.jpg",
    "complete": false,
    "concise": false
@@ -13863,7 +13127,6 @@
    "license": "Public domain",
    "width": 7195,
    "height": 4686,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13881,7 +13144,6 @@
    "license": "Public domain",
    "width": 7195,
    "height": 4686,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13899,7 +13161,6 @@
    "license": "Public domain",
    "width": 4000,
    "height": 3103,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -13917,7 +13178,6 @@
    "license": "Public domain",
    "width": 600,
    "height": 478,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -13935,7 +13195,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 749,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13953,7 +13212,6 @@
    "license": "Public domain",
    "width": 1986,
    "height": 1519,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -13971,7 +13229,6 @@
    "license": "Public domain",
    "width": 2798,
    "height": 4000,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -13989,7 +13246,6 @@
    "license": "Public domain",
    "width": 600,
    "height": 476,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14007,7 +13263,6 @@
    "license": "Public domain",
    "width": 2460,
    "height": 1548,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14025,7 +13280,6 @@
    "license": "Public domain",
    "width": 2460,
    "height": 1431,
-   "head": null,
    "duplicateOf": "OdysseyAthena.png",
    "complete": false,
    "concise": false
@@ -14044,7 +13298,6 @@
    "license": "Public domain",
    "width": 2160,
    "height": 1560,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14062,7 +13315,6 @@
    "license": "Public domain",
    "width": 3088,
    "height": 2648,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -14080,7 +13332,6 @@
    "license": "Public domain",
    "width": 3072,
    "height": 2648,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -14098,7 +13349,6 @@
    "license": "Public domain",
    "width": 3184,
    "height": 2648,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -14116,7 +13366,6 @@
    "license": "CC0",
    "width": 6600,
    "height": 4984,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14134,7 +13383,6 @@
    "license": "CC0",
    "width": 6540,
    "height": 5008,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14152,7 +13400,6 @@
    "license": "Public domain",
    "width": 644,
    "height": 766,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14170,7 +13417,6 @@
    "license": "Public domain",
    "width": 7195,
    "height": 4686,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14188,7 +13434,6 @@
    "license": "CC0",
    "width": 4258,
    "height": 3566,
-   "head": null,
    "duplicateOf": "Odysseus en Telemachus in de hut van Eumaeus De werken van Odysseus (serietitel), RP-P-OB-66.764.jpg",
    "complete": false,
    "concise": false
@@ -14207,7 +13452,6 @@
    "license": "CC0",
    "width": 4174,
    "height": 3484,
-   "head": null,
    "duplicateOf": "Odysseus geeft zijn wapens aan Eumaeus De werken van Odysseus (serietitel), RP-P-OB-66.783.jpg",
    "complete": false,
    "concise": false
@@ -14226,7 +13470,6 @@
    "license": "Public domain",
    "width": 7195,
    "height": 4686,
-   "head": null,
    "duplicateOf": "Odysseus geeft zijn wapens aan Eumaeus De werken van Odysseus (serietitel), RP-P-OB-66.783.jpg",
    "complete": false,
    "concise": false
@@ -14245,7 +13488,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 746,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14263,7 +13505,6 @@
    "license": "Public domain",
    "width": 1645,
    "height": 980,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14281,7 +13522,6 @@
    "license": "Public domain",
    "width": 1296,
    "height": 516,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14299,7 +13539,6 @@
    "license": "Public domain",
    "width": 1600,
    "height": 1542,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14317,7 +13556,6 @@
    "license": "Public domain",
    "width": 1088,
    "height": 1300,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14335,7 +13573,6 @@
    "license": "Public domain",
    "width": 4306,
    "height": 3250,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -14353,7 +13590,6 @@
    "license": "Public domain",
    "width": 7242,
    "height": 4257,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -14371,7 +13607,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 559,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14389,7 +13624,6 @@
    "license": "Public domain",
    "width": 4752,
    "height": 3485,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -14407,7 +13641,6 @@
    "license": "Public domain",
    "width": 493,
    "height": 650,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -14425,7 +13658,6 @@
    "license": "CC0",
    "width": 3368,
    "height": 4488,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14443,7 +13675,6 @@
    "license": "CC0",
    "width": 8014,
    "height": 5138,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -14461,7 +13692,6 @@
    "license": "Public domain",
    "width": 942,
    "height": 1200,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -14479,7 +13709,6 @@
    "license": "Public domain",
    "width": 3216,
    "height": 2792,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -14497,7 +13726,6 @@
    "license": "CC0",
    "width": 5200,
    "height": 3938,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14515,7 +13743,6 @@
    "license": "CC0",
    "width": 4396,
    "height": 3708,
-   "head": null,
    "duplicateOf": "Odysseus door zijn hond Argus herkend De werken van Odysseus (serietitel), RP-P-OB-66.765.jpg",
    "complete": false,
    "concise": false
@@ -14534,7 +13761,6 @@
    "license": "Public domain",
    "width": 296,
    "height": 500,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14552,7 +13778,6 @@
    "license": "Public domain",
    "width": 5951,
    "height": 4747,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -14570,7 +13795,6 @@
    "license": "Public domain",
    "width": 272,
    "height": 500,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14588,7 +13812,6 @@
    "license": "Public domain",
    "width": 960,
    "height": 1445,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -14606,7 +13829,6 @@
    "license": "Public domain",
    "width": 2048,
    "height": 1536,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14624,7 +13846,6 @@
    "license": "Public domain",
    "width": 1276,
    "height": 1025,
-   "head": null,
    "duplicateOf": "Ulysses and Argo.png",
    "complete": false,
    "concise": false
@@ -14643,7 +13864,6 @@
    "license": "Public domain",
    "width": 1355,
    "height": 1142,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14661,7 +13881,6 @@
    "license": "Public domain",
    "width": 1713,
    "height": 2237,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14679,7 +13898,6 @@
    "license": "Public domain",
    "width": 2500,
    "height": 2197,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14697,7 +13915,6 @@
    "license": "Public domain",
    "width": 2363,
    "height": 1972,
-   "head": null,
    "duplicateOf": "Ulysses and Argus - Frederick Stacpoole after Briton Rivière (BM 2010,7081.6046).jpg",
    "complete": false,
    "concise": false
@@ -14716,7 +13933,6 @@
    "license": "CC0",
    "width": 4670,
    "height": 5908,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14734,7 +13950,6 @@
    "license": "CC0",
    "width": 4606,
    "height": 5960,
-   "head": null,
    "duplicateOf": "Gevecht tussen Odysseus en Irus, RP-P-1884-A-7669.jpg",
    "complete": false,
    "concise": false
@@ -14753,7 +13968,6 @@
    "license": "CC0",
    "width": 4638,
    "height": 5962,
-   "head": null,
    "duplicateOf": "Gevecht tussen Odysseus en Irus, RP-P-1884-A-7669.jpg",
    "complete": false,
    "concise": false
@@ -14772,7 +13986,6 @@
    "license": "Public domain",
    "width": 1377,
    "height": 1800,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14790,7 +14003,6 @@
    "license": "CC0",
    "width": 2936,
    "height": 4000,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14808,7 +14020,6 @@
    "license": "CC0",
    "width": 2895,
    "height": 3726,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14826,7 +14037,6 @@
    "license": "Public domain",
    "width": 3160,
    "height": 2664,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14844,7 +14054,6 @@
    "license": "CC0",
    "width": 6504,
    "height": 4872,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14862,7 +14071,6 @@
    "license": "CC0",
    "width": 6488,
    "height": 4918,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14880,7 +14088,6 @@
    "license": "CC0",
    "width": 6580,
    "height": 4992,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14898,7 +14105,6 @@
    "license": "CC0",
    "width": 6520,
    "height": 4896,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14916,7 +14122,6 @@
    "license": "CC0",
    "width": 6546,
    "height": 4968,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14934,7 +14139,6 @@
    "license": "Public domain",
    "width": 7195,
    "height": 4686,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -14952,7 +14156,6 @@
    "license": "CC0",
    "width": 5798,
    "height": 4758,
-   "head": null,
    "duplicateOf": "Bestraffing van de bedienden van Penelope De werken van Odysseus (serietitel), RP-P-OB-66.773.jpg",
    "complete": false,
    "concise": false
@@ -14971,7 +14174,6 @@
    "license": "CC0",
    "width": 4098,
    "height": 3490,
-   "head": null,
    "duplicateOf": "Gevecht tussen Odysseus en Irus De werken van Odysseus (serietitel), RP-P-OB-66.768.jpg",
    "complete": false,
    "concise": false
@@ -14990,7 +14192,6 @@
    "license": "CC0",
    "width": 4392,
    "height": 3634,
-   "head": null,
    "duplicateOf": "Odysseus als bedelaar aan de deur van zijn huis De werken van Odysseus (serietitel), RP-P-OB-66.767.jpg",
    "complete": false,
    "concise": false
@@ -15009,7 +14210,6 @@
    "license": "CC0",
    "width": 5774,
    "height": 4757,
-   "head": null,
    "duplicateOf": "Odysseus krijgt een aalmoes van een van zijn bedienden De werken van Odysseus (serietitel), RP-P-OB-66.766.jpg",
    "complete": false,
    "concise": false
@@ -15028,7 +14228,6 @@
    "license": "CC0",
    "width": 5792,
    "height": 4758,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15046,7 +14245,6 @@
    "license": "Public domain",
    "width": 5478,
    "height": 4306,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15064,7 +14262,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 621,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -15082,7 +14279,6 @@
    "license": "Public domain",
    "width": 1386,
    "height": 1200,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -15100,7 +14296,6 @@
    "license": "Public domain",
    "width": 1149,
    "height": 863,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15118,7 +14313,6 @@
    "license": "Public domain",
    "width": 1141,
    "height": 858,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15136,7 +14330,6 @@
    "license": "Public domain",
    "width": 492,
    "height": 425,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -15154,7 +14347,6 @@
    "license": "Public domain",
    "width": 1140,
    "height": 852,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15172,7 +14364,6 @@
    "license": "Public domain",
    "width": 3000,
    "height": 2294,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -15190,7 +14381,6 @@
    "license": "Public domain",
    "width": 489,
    "height": 585,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15208,7 +14398,6 @@
    "license": "Public domain",
    "width": 486,
    "height": 584,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -15226,7 +14415,6 @@
    "license": "CC0",
    "width": 2048,
    "height": 2048,
-   "head": null,
    "duplicateOf": "Terracotta plaque MET DT277.jpg",
    "complete": false,
    "concise": false
@@ -15245,7 +14433,6 @@
    "license": "CC0",
    "width": 3811,
    "height": 3049,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -15263,7 +14450,6 @@
    "license": "CC0",
    "width": 2016,
    "height": 1544,
-   "head": null,
    "duplicateOf": "Terracotta plaque MET DT277.jpg",
    "complete": false,
    "concise": false
@@ -15282,7 +14468,6 @@
    "license": "Public domain",
    "width": 1740,
    "height": 2050,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15300,7 +14485,6 @@
    "license": "Public domain",
    "width": 6000,
    "height": 4000,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -15318,7 +14502,6 @@
    "license": "Public domain",
    "width": 3779,
    "height": 3225,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -15336,7 +14519,6 @@
    "license": "CC0",
    "width": 2696,
    "height": 2976,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15354,7 +14536,6 @@
    "license": "CC0",
    "width": 3225,
    "height": 3698,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15372,7 +14553,6 @@
    "license": "Public domain",
    "width": 3096,
    "height": 2680,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15390,7 +14570,6 @@
    "license": "Public domain",
    "width": 298,
    "height": 512,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15408,7 +14587,6 @@
    "license": "Public domain",
    "width": 638,
    "height": 503,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15426,7 +14604,6 @@
    "license": "Public domain",
    "width": 1112,
    "height": 1452,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15444,7 +14621,6 @@
    "license": "Public domain",
    "width": 2006,
    "height": 1494,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15462,7 +14638,6 @@
    "license": "Public domain",
    "width": 1132,
    "height": 900,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -15480,7 +14655,6 @@
    "license": "Public domain",
    "width": 894,
    "height": 1200,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -15498,7 +14672,6 @@
    "license": "Public domain",
    "width": 1836,
    "height": 2548,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15516,7 +14689,6 @@
    "license": "Public domain",
    "width": 1600,
    "height": 1330,
-   "head": null,
    "duplicateOf": "Eckersberg, CW - Odysseus' hjemkomst - 1812.jpeg",
    "complete": false,
    "concise": false
@@ -15535,7 +14707,6 @@
    "license": "Public domain",
    "width": 1650,
    "height": 1372,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -15553,7 +14724,6 @@
    "license": "Public domain",
    "width": 540,
    "height": 411,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15571,7 +14741,6 @@
    "license": "Public domain",
    "width": 3056,
    "height": 2584,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -15589,7 +14758,6 @@
    "license": "CC0",
    "width": 6446,
    "height": 4866,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -15607,7 +14775,6 @@
    "license": "CC0",
    "width": 4144,
    "height": 3362,
-   "head": null,
    "duplicateOf": "Minerva zet Odysseus aan om de boog te vragen De werken van Odysseus (serietitel), RP-P-OB-66.769.jpg",
    "complete": false,
    "concise": false
@@ -15626,7 +14793,6 @@
    "license": "Public domain",
    "width": 1257,
    "height": 1575,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15644,7 +14810,6 @@
    "license": "Public domain",
    "width": 953,
    "height": 1200,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -15662,7 +14827,6 @@
    "license": "Public domain",
    "width": 557,
    "height": 736,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15680,7 +14844,6 @@
    "license": "Public domain",
    "width": 1260,
    "height": 1696,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15698,7 +14861,6 @@
    "license": "CC0",
    "width": 6526,
    "height": 4908,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -15716,7 +14878,6 @@
    "license": "CC0",
    "width": 5794,
    "height": 4757,
-   "head": null,
    "duplicateOf": "Odysseus schiet de pijl door de twaalf ringen De werken van Odysseus (serietitel), RP-P-OB-66.770.jpg",
    "complete": false,
    "concise": false
@@ -15735,7 +14896,6 @@
    "license": "CC0",
    "width": 4386,
    "height": 3736,
-   "head": null,
    "duplicateOf": "Odysseus schiet de pijl door de twaalf ringen De werken van Odysseus (serietitel), RP-P-OB-66.770.jpg",
    "complete": false,
    "concise": false
@@ -15754,7 +14914,6 @@
    "license": "Public domain",
    "width": 3032,
    "height": 2664,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15772,7 +14931,6 @@
    "license": "Public domain",
    "width": 3320,
    "height": 2728,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15790,7 +14948,6 @@
    "license": "CC0",
    "width": 6670,
    "height": 4976,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15808,7 +14965,6 @@
    "license": "CC0",
    "width": 6638,
    "height": 4856,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15826,7 +14982,6 @@
    "license": "CC0",
    "width": 6618,
    "height": 4940,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15844,7 +14999,6 @@
    "license": "CC0",
    "width": 6644,
    "height": 4972,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15862,7 +15016,6 @@
    "license": "Public domain",
    "width": 3192,
    "height": 2696,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -15880,7 +15033,6 @@
    "license": "Public domain",
    "width": 7195,
    "height": 4686,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -15898,7 +15050,6 @@
    "license": "CC0",
    "width": 4170,
    "height": 3504,
-   "head": null,
    "duplicateOf": "Odysseus doodt de vrijers met hulp van Telemachus De werken van Odysseus (serietitel), RP-P-OB-66.772.jpg",
    "complete": false,
    "concise": false
@@ -15917,7 +15068,6 @@
    "license": "CC0",
    "width": 5812,
    "height": 4758,
-   "head": null,
    "duplicateOf": "Odysseus doodt met zijn boog een van de vrijers De werken van Odysseus (serietitel), RP-P-OB-66.771.jpg",
    "complete": false,
    "concise": false
@@ -15936,7 +15086,6 @@
    "license": "CC0",
    "width": 4366,
    "height": 3566,
-   "head": null,
    "duplicateOf": "Odysseus en Telemachos wassen zich De werken van Odysseus (serietitel), RP-P-OB-66.774.jpg",
    "complete": false,
    "concise": false
@@ -15955,7 +15104,6 @@
    "license": "CC0",
    "width": 5779,
    "height": 4771,
-   "head": null,
    "duplicateOf": "Opruiming van de lichamen van de vrijers De werken van Odysseus (serietitel), RP-P-OB-66.786.jpg",
    "complete": false,
    "concise": false
@@ -15974,7 +15122,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 587,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -15992,7 +15139,6 @@
    "license": "Public domain",
    "width": 5080,
    "height": 3982,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16010,7 +15156,6 @@
    "license": "Public domain",
    "width": 5433,
    "height": 3915,
-   "head": null,
    "duplicateOf": "Ulysse et Télémaque attaquent les prétendants - dessin - (anonyme) ; (d'après Le Primatice) - btv1b104682417 (1 of 2).jpg",
    "complete": false,
    "concise": false
@@ -16029,7 +15174,6 @@
    "license": "Public domain",
    "width": 5939,
    "height": 4637,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16047,7 +15191,6 @@
    "license": "Public domain",
    "width": 905,
    "height": 704,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16065,7 +15208,6 @@
    "license": "Public domain",
    "width": 500,
    "height": 394,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16083,7 +15225,6 @@
    "license": "CC0",
    "width": 3868,
    "height": 2268,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -16101,7 +15242,6 @@
    "license": "Public domain",
    "width": 2274,
    "height": 1830,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16119,7 +15259,6 @@
    "license": "CC0",
    "width": 1258,
    "height": 1043,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16137,7 +15276,6 @@
    "license": "CC0",
    "width": 1160,
    "height": 854,
-   "head": null,
    "duplicateOf": "Scanned B&W Images Odysseus slays the suitors of his wife Penelope & Odysseus Meets Nausicaa.jpg",
    "complete": false,
    "concise": false
@@ -16156,7 +15294,6 @@
    "license": "CC0",
    "width": 5184,
    "height": 3456,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16174,7 +15311,6 @@
    "license": "Public domain",
    "width": 531,
    "height": 512,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16192,7 +15328,6 @@
    "license": "Public domain",
    "width": 897,
    "height": 553,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16210,7 +15345,6 @@
    "license": "Public domain",
    "width": 640,
    "height": 608,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16228,7 +15362,6 @@
    "license": "Public domain",
    "width": 893,
    "height": 1200,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16246,7 +15379,6 @@
    "license": "Public domain",
    "width": 1155,
    "height": 873,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16264,7 +15396,6 @@
    "license": "Public domain",
    "width": 2525,
    "height": 1406,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16282,7 +15413,6 @@
    "license": "Public domain",
    "width": 1818,
    "height": 1744,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16300,7 +15430,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 479,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16318,7 +15447,6 @@
    "license": "Public domain",
    "width": 6306,
    "height": 4135,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16336,7 +15464,6 @@
    "license": "Public domain",
    "width": 1516,
    "height": 694,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16354,7 +15481,6 @@
    "license": "Public domain",
    "width": 3682,
    "height": 2183,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16372,7 +15498,6 @@
    "license": "Public domain",
    "width": 3438,
    "height": 3168,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -16390,7 +15515,6 @@
    "license": "Public domain",
    "width": 3738,
    "height": 3168,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -16408,7 +15532,6 @@
    "license": "Public domain",
    "width": 1024,
    "height": 848,
-   "head": null,
    "duplicateOf": "1913 Corinth Odysseus im Kampf mit den Freiern anagoria.JPG",
    "complete": false,
    "concise": false
@@ -16427,7 +15550,6 @@
    "license": "Public domain",
    "width": 947,
    "height": 1024,
-   "head": null,
    "duplicateOf": "1913 Corinth Die Freier im Kampf gegen Odysseus anagoria.JPG",
    "complete": false,
    "concise": false
@@ -16446,7 +15568,6 @@
    "license": "CC0",
    "width": 2527,
    "height": 4000,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16464,7 +15585,6 @@
    "license": "Public domain",
    "width": 4032,
    "height": 3024,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16482,7 +15602,6 @@
    "license": "Public domain",
    "width": 500,
    "height": 398,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16500,7 +15619,6 @@
    "license": "Public domain",
    "width": 500,
    "height": 389,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16518,7 +15636,6 @@
    "license": "Public domain",
    "width": 1200,
    "height": 503,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16536,7 +15653,6 @@
    "license": "Public domain",
    "width": 1280,
    "height": 595,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16554,7 +15670,6 @@
    "license": "Public domain",
    "width": 1110,
    "height": 1000,
-   "head": null,
    "duplicateOf": "Francesco Primaticcio 002.jpg",
    "complete": false,
    "concise": false
@@ -16573,7 +15688,6 @@
    "license": "Public domain",
    "width": 2000,
    "height": 1844,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16591,7 +15705,6 @@
    "license": "Public domain",
    "width": 2024,
    "height": 1868,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -16609,7 +15722,6 @@
    "license": "Public domain",
    "width": 3056,
    "height": 2640,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16627,7 +15739,6 @@
    "license": "Public domain",
    "width": 6480,
    "height": 4894,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16645,7 +15756,6 @@
    "license": "Public domain",
    "width": 3096,
    "height": 2672,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16663,7 +15773,6 @@
    "license": "CC0",
    "width": 6416,
    "height": 4904,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16681,7 +15790,6 @@
    "license": "CC0",
    "width": 6472,
    "height": 4916,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16699,7 +15807,6 @@
    "license": "CC0",
    "width": 6530,
    "height": 4854,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16717,7 +15824,6 @@
    "license": "CC0",
    "width": 6462,
    "height": 4958,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16735,7 +15841,6 @@
    "license": "Public domain",
    "width": 3088,
    "height": 2648,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16753,7 +15858,6 @@
    "license": "CC0",
    "width": 4216,
    "height": 3526,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16771,7 +15875,6 @@
    "license": "CC0",
    "width": 5781,
    "height": 4757,
-   "head": null,
    "duplicateOf": "Odysseus en Penelope omhelzen elkaar De werken van Odysseus (serietitel), RP-P-OB-66.777.jpg",
    "complete": false,
    "concise": false
@@ -16790,7 +15893,6 @@
    "license": "CC0",
    "width": 5780,
    "height": 4758,
-   "head": null,
    "duplicateOf": "Odysseus en Penelope op weg naar bed De werken van Odysseus (serietitel), RP-P-OB-66.778.jpg",
    "complete": false,
    "concise": false
@@ -16809,7 +15911,6 @@
    "license": "CC0",
    "width": 4274,
    "height": 3468,
-   "head": null,
    "duplicateOf": "Odysseus vertelt van zijn avonturen aan Penelope De werken van Odysseus (serietitel), RP-P-OB-66.779.jpg",
    "complete": false,
    "concise": false
@@ -16828,7 +15929,6 @@
    "license": "CC0",
    "width": 5779,
    "height": 4758,
-   "head": null,
    "duplicateOf": "Penelope twijfelt aan de identiteit van Odysseus De werken van Odysseus (serietitel), RP-P-OB-66.780.jpg",
    "complete": false,
    "concise": false
@@ -16847,7 +15947,6 @@
    "license": "Public domain",
    "width": 7195,
    "height": 4686,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16865,7 +15964,6 @@
    "license": "Public domain",
    "width": 7195,
    "height": 4686,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16883,7 +15981,6 @@
    "license": "Public domain",
    "width": 7195,
    "height": 4686,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16901,7 +15998,6 @@
    "license": "Public domain",
    "width": 554,
    "height": 600,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -16919,7 +16015,6 @@
    "license": "CC0",
    "width": 4160,
    "height": 5400,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -16937,7 +16032,6 @@
    "license": "CC0",
    "width": 4436,
    "height": 5610,
-   "head": null,
    "duplicateOf": "Histoire Ancienne.14.Ulysse et Pénélope. G.2135(1).jpg",
    "complete": false,
    "concise": false
@@ -16956,7 +16050,6 @@
    "license": "CC0",
    "width": 4372,
    "height": 5610,
-   "head": null,
    "duplicateOf": "Histoire Ancienne.14.Ulysse et Pénélope. G.2135(1).jpg",
    "complete": false,
    "concise": false
@@ -16975,7 +16068,6 @@
    "license": "CC0",
    "width": 4032,
    "height": 4520,
-   "head": null,
    "duplicateOf": "Histoire Ancienne.14.Ulysse et Pénélope. G.2135(1).jpg",
    "complete": false,
    "concise": false
@@ -16994,7 +16086,6 @@
    "license": "CC0",
    "width": 4144,
    "height": 5208,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17012,7 +16103,6 @@
    "license": "CC0",
    "width": 4463,
    "height": 5563,
-   "head": null,
    "duplicateOf": "Histoire Ancienne.7.Le Retour d'Ulysse. G.2128(1).jpg",
    "complete": false,
    "concise": false
@@ -17031,7 +16121,6 @@
    "license": "CC0",
    "width": 4359,
    "height": 5720,
-   "head": null,
    "duplicateOf": "Histoire Ancienne.7.Le Retour d'Ulysse. G.2128(1).jpg",
    "complete": false,
    "concise": false
@@ -17050,7 +16139,6 @@
    "license": "CC0",
    "width": 4036,
    "height": 5000,
-   "head": null,
    "duplicateOf": "Histoire Ancienne.7.Le Retour d'Ulysse. G.2128(1).jpg",
    "complete": false,
    "concise": false
@@ -17069,7 +16157,6 @@
    "license": "Public domain",
    "width": 3768,
    "height": 4760,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17087,7 +16174,6 @@
    "license": "Public domain",
    "width": 3808,
    "height": 4808,
-   "head": null,
    "duplicateOf": "Le retour d'Ulysse - DPLA - 20c1be313fc59dd2ee9956644f307d23.jpg",
    "complete": false,
    "concise": false
@@ -17106,7 +16192,6 @@
    "license": "Public domain",
    "width": 657,
    "height": 473,
-   "head": null,
    "duplicateOf": "Odysseus und Penelope (Tischbein).jpg",
    "complete": false,
    "concise": false
@@ -17125,7 +16210,6 @@
    "license": "Public domain",
    "width": 2048,
    "height": 1554,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -17143,7 +16227,6 @@
    "license": "CC0",
    "width": 4588,
    "height": 6082,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17161,7 +16244,6 @@
    "license": "Public domain",
    "width": 1357,
    "height": 2398,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17179,7 +16261,6 @@
    "license": "Public domain",
    "width": 3705,
    "height": 5349,
-   "head": null,
    "duplicateOf": "Ulysse et Penelope (NYPL b12149230-5107444).jpg",
    "complete": false,
    "concise": false
@@ -17198,7 +16279,6 @@
    "license": "Public domain",
    "width": 600,
    "height": 411,
-   "head": null,
    "duplicateOf": "Penelope Waken by Eurykleia (1772), oil on canvas, dimensions unknown, Vorarlberger Landesmuseum, Bregenz.jpg",
    "complete": false,
    "concise": false
@@ -17217,7 +16297,6 @@
    "license": "Public domain",
    "width": 1752,
    "height": 1200,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17235,7 +16314,6 @@
    "license": "CC0",
    "width": 5588,
    "height": 4734,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17253,7 +16331,6 @@
    "license": "Public domain",
    "width": 2136,
    "height": 1598,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -17271,7 +16348,6 @@
    "license": "Public domain",
    "width": 4096,
    "height": 3148,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17289,7 +16365,6 @@
    "license": "Public domain",
    "width": 2208,
    "height": 1572,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17307,7 +16382,6 @@
    "license": "CC0",
    "width": 3443,
    "height": 3922,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17325,7 +16399,6 @@
    "license": "Public domain",
    "width": 3544,
    "height": 4688,
-   "head": null,
    "duplicateOf": "Honoré Daumier, Ulysse et Pénélope, 1842, NGA 6159.jpg",
    "complete": false,
    "concise": false
@@ -17344,7 +16417,6 @@
    "license": "Public domain",
    "width": 3704,
    "height": 4896,
-   "head": null,
    "duplicateOf": "Honoré Daumier, Ulysse et Pénélope, 1842, NGA 6159.jpg",
    "complete": false,
    "concise": false
@@ -17363,7 +16435,6 @@
    "license": "Public domain",
    "width": 3120,
    "height": 2664,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -17381,7 +16452,6 @@
    "license": "Public domain",
    "width": 3136,
    "height": 2632,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -17399,7 +16469,6 @@
    "license": "CC0",
    "width": 6430,
    "height": 4866,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -17417,7 +16486,6 @@
    "license": "CC0",
    "width": 6488,
    "height": 4942,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17435,7 +16503,6 @@
    "license": "CC0",
    "width": 6582,
    "height": 4998,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17453,7 +16520,6 @@
    "license": "CC0",
    "width": 6444,
    "height": 4962,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17471,7 +16537,6 @@
    "license": "CC0",
    "width": 4274,
    "height": 3550,
-   "head": null,
    "duplicateOf": "Laërtes' huis aangevallen De werken van Odysseus (serietitel), RP-P-OB-66.787.jpg",
    "complete": false,
    "concise": false
@@ -17490,7 +16555,6 @@
    "license": "CC0",
    "width": 5776,
    "height": 4772,
-   "head": null,
    "duplicateOf": "Odysseus en Telemachus onderweg naar Laertes De werken van Odysseus (serietitel), RP-P-OB-66.782.jpg",
    "complete": false,
    "concise": false
@@ -17509,7 +16573,6 @@
    "license": "CC0",
    "width": 5786,
    "height": 4758,
-   "head": null,
    "duplicateOf": "Odysseus omhelst Laërtes in zijn wijngaard De werken van Odysseus (serietitel), RP-P-OB-66.784.jpg",
    "complete": false,
    "concise": false
@@ -17528,7 +16591,6 @@
    "license": "CC0",
    "width": 5780,
    "height": 4770,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17546,7 +16608,6 @@
    "license": "Public domain",
    "width": 7195,
    "height": 4686,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17564,7 +16625,6 @@
    "license": "Public domain",
    "width": 3648,
    "height": 2840,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -17582,7 +16642,6 @@
    "license": "CC0",
    "width": 6408,
    "height": 4932,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -17600,7 +16659,6 @@
    "license": "CC0",
    "width": 6668,
    "height": 4972,
-   "head": null,
    "complete": true,
    "concise": true
   },
@@ -17618,7 +16676,6 @@
    "license": "CC0",
    "width": 4935,
    "height": 3958,
-   "head": null,
    "duplicateOf": "Jupiter en Minerva stoppen de strijd tussen Odysseus en de Ithacanen De werken van Odysseus (serietitel), RP-P-OB-66.788.jpg",
    "complete": false,
    "concise": false
@@ -17637,7 +16694,6 @@
    "license": "CC0",
    "width": 5799,
    "height": 4764,
-   "head": null,
    "duplicateOf": "Verzoening tussen Odysseus en de Ithacaanse rebellen De werken van Odysseus (serietitel), RP-P-OB-66.789.jpg",
    "complete": false,
    "concise": false
@@ -17656,7 +16712,6 @@
    "license": "Public domain",
    "width": 7195,
    "height": 4833,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17674,7 +16729,6 @@
    "license": "Public domain",
    "width": 4095,
    "height": 3169,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17692,7 +16746,6 @@
    "license": "No restrictions",
    "width": 1420,
    "height": 2290,
-   "head": null,
    "complete": true,
    "concise": false
   },
@@ -17710,7 +16763,6 @@
    "license": "Public domain",
    "width": 1610,
    "height": 2609,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17728,7 +16780,6 @@
    "license": "Public domain",
    "width": 1120,
    "height": 2600,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17746,7 +16797,6 @@
    "license": "Public domain",
    "width": 2118,
    "height": 1307,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17764,7 +16814,6 @@
    "license": "CC0",
    "width": 4492,
    "height": 3387,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17782,7 +16831,6 @@
    "license": "Public domain",
    "width": 4077,
    "height": 6467,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17800,7 +16848,6 @@
    "license": "Public domain",
    "width": 6588,
    "height": 3922,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17818,7 +16865,6 @@
    "license": "Public domain",
    "width": 2352,
    "height": 1536,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17836,7 +16882,6 @@
    "license": "CC0",
    "width": 2000,
    "height": 1399,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17854,7 +16899,6 @@
    "license": "CC0",
    "width": 5350,
    "height": 7913,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17872,7 +16916,6 @@
    "license": "Public domain",
    "width": 819,
    "height": 860,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17890,7 +16933,6 @@
    "license": "Public domain",
    "width": 944,
    "height": 730,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17908,7 +16950,6 @@
    "license": "Public domain",
    "width": 1000,
    "height": 600,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17926,7 +16967,6 @@
    "license": "Public domain",
    "width": 850,
    "height": 1000,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17944,7 +16984,6 @@
    "license": "No restrictions",
    "width": 1880,
    "height": 1436,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17962,7 +17001,6 @@
    "license": "Public domain",
    "width": 1402,
    "height": 759,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17980,7 +17018,6 @@
    "license": "Public domain",
    "width": 1931,
    "height": 1424,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -17998,7 +17035,6 @@
    "license": "Public domain",
    "width": 2500,
    "height": 2093,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18016,7 +17052,6 @@
    "license": "CC0",
    "width": 2442,
    "height": 3905,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18034,7 +17069,6 @@
    "license": "Public domain",
    "width": 2581,
    "height": 2015,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18052,7 +17086,6 @@
    "license": "CC0",
    "width": 2276,
    "height": 2912,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18070,7 +17103,6 @@
    "license": "CC0",
    "width": 2472,
    "height": 2488,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18088,7 +17120,6 @@
    "license": "CC0",
    "width": 1499,
    "height": 1109,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18106,7 +17137,6 @@
    "license": "CC0",
    "width": 3168,
    "height": 4752,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18124,7 +17154,6 @@
    "license": "Public domain",
    "width": 800,
    "height": 940,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18142,7 +17171,6 @@
    "license": "CC0",
    "width": 3000,
    "height": 4000,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18160,7 +17188,6 @@
    "license": "CC0",
    "width": 1536,
    "height": 1024,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18178,7 +17205,6 @@
    "license": "CC0",
    "width": 3000,
    "height": 4000,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18196,7 +17222,6 @@
    "license": "CC0",
    "width": 3000,
    "height": 4000,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18214,7 +17239,6 @@
    "license": "CC0",
    "width": 1536,
    "height": 1024,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18232,7 +17256,6 @@
    "license": "CC0",
    "width": 3000,
    "height": 4000,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18250,7 +17273,6 @@
    "license": "CC0",
    "width": 4557,
    "height": 3527,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18268,7 +17290,6 @@
    "license": "CC0",
    "width": 8646,
    "height": 6952,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18286,7 +17307,6 @@
    "license": "CC0",
    "width": 4752,
    "height": 3168,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18304,7 +17324,6 @@
    "license": "Public domain",
    "width": 2236,
    "height": 1980,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18322,7 +17341,6 @@
    "license": "Public domain",
    "width": 2000,
    "height": 1666,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18340,7 +17358,6 @@
    "license": "Public domain",
    "width": 500,
    "height": 400,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18358,7 +17375,6 @@
    "license": "Public domain",
    "width": 2105,
    "height": 3316,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18376,7 +17392,6 @@
    "license": "Public domain",
    "width": 2105,
    "height": 3403,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18394,7 +17409,6 @@
    "license": "Public domain",
    "width": 1807,
    "height": 1374,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18412,7 +17426,6 @@
    "license": "Public domain",
    "width": 713,
    "height": 511,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18430,7 +17443,6 @@
    "license": "Public domain",
    "width": 790,
    "height": 157,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18448,7 +17460,6 @@
    "license": "Public domain",
    "width": 1387,
    "height": 2061,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18466,7 +17477,6 @@
    "license": "Public domain",
    "width": 1686,
    "height": 2421,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18484,7 +17494,6 @@
    "license": "CC0",
    "width": 2202,
    "height": 3000,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18502,7 +17511,6 @@
    "license": "Public domain",
    "width": 1269,
    "height": 2316,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18520,7 +17528,6 @@
    "license": "Public domain",
    "width": 1048,
    "height": 624,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18538,7 +17545,6 @@
    "license": "Public domain",
    "width": 3009,
    "height": 4704,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18556,7 +17562,6 @@
    "license": "Public domain",
    "width": 1219,
    "height": 1798,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18574,7 +17579,6 @@
    "license": "Public domain",
    "width": 1920,
    "height": 1312,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18592,7 +17596,6 @@
    "license": "Public domain",
    "width": 3818,
    "height": 5919,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18610,7 +17613,6 @@
    "license": "Public domain",
    "width": 2534,
    "height": 4062,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18628,7 +17630,6 @@
    "license": "Public domain",
    "width": 1882,
    "height": 510,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18646,7 +17647,6 @@
    "license": "Public domain",
    "width": 626,
    "height": 827,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18664,7 +17664,6 @@
    "license": "Public domain",
    "width": 660,
    "height": 505,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18682,7 +17681,6 @@
    "license": "Public domain",
    "width": 662,
    "height": 511,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18700,7 +17698,6 @@
    "license": "Public domain",
    "width": 656,
    "height": 506,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18718,7 +17715,6 @@
    "license": "Public domain",
    "width": 668,
    "height": 505,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18736,7 +17732,6 @@
    "license": "Public domain",
    "width": 268,
    "height": 498,
-   "head": null,
    "complete": false,
    "concise": false
   },
@@ -18754,7 +17749,6 @@
    "license": "CC0",
    "width": 6000,
    "height": 4000,
-   "head": null,
    "complete": false,
    "concise": false
   }
