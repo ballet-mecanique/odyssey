@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Odyssey in Art</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root { --bg:#0d0c0a; --panel:#17150f; --line:#2c281e; --text:#e9e1cc; --muted:#a39878; --gold:#d6a84a; --side:#7fa6c9; }
+  * { box-sizing:border-box; }
+  html,body { margin:0; height:100%; background:var(--bg); color:var(--text); font:15px/1.5 Georgia, "Times New Roman", serif; }
+  button, select, input { font:inherit; color:var(--text); background:#221f17; border:1px solid var(--line); border-radius:4px; padding:4px 10px; }
+  button { cursor:pointer; white-space:nowrap; } button:hover { border-color:var(--gold); }
+  button.on { background:var(--gold); color:#1a1408; border-color:var(--gold); }
+  header { height:52px; display:flex; align-items:center; gap:18px; padding:0 14px; border-bottom:1px solid var(--line); background:var(--panel); }
+  header h1 { font-size:19px; margin:0 8px 0 0; letter-spacing:.06em; font-weight:normal; color:var(--gold); white-space:nowrap; }
+  .seg { display:flex; } .seg button { border-radius:0; margin-left:-1px; } .seg button:first-child { border-radius:4px 0 0 4px; } .seg button:last-child { border-radius:0 4px 4px 0; }
+  .lbl { color:var(--muted); font-size:12px; text-transform:uppercase; letter-spacing:.08em; margin-right:6px; }
+  .grp { display:flex; align-items:center; }
+  #status { margin-left:auto; color:var(--muted); font-size:13px; white-space:nowrap; }
+  main { position:absolute; top:52px; left:0; right:0; bottom:0; }
+  .view { position:absolute; inset:0; display:none; } .view.active { display:flex; }
+
+  /* film */
+  #film { flex-direction:column; background:#000; }
+  #screen { position:relative; flex:1; overflow:hidden; background:#000; }
+  #screen img { position:absolute; left:0; top:0; transform-origin:0 0; will-change:transform; }
+  #filmCaption { position:absolute; left:16px; bottom:12px; font-size:14px; color:#fff; text-shadow:0 0 6px #000, 0 0 2px #000; opacity:.85; pointer-events:none; }
+  #filmBar { display:flex; align-items:center; gap:12px; padding:8px 14px; background:var(--panel); border-top:1px solid var(--line); }
+  #filmBar input[type=range] { flex:1; }
+  #filmBar input[type=number] { width:64px; }
+
+  /* gallery */
+  #gallery { }
+  #sidebar { width:320px; flex:none; border-right:1px solid var(--line); background:var(--panel); overflow-y:auto; transition:width .2s; }
+  #gallery.collapsed #sidebar { width:0; border:none; }
+  #sidebar ol { list-style:none; margin:0; padding:6px 0 30px; }
+  #sidebar li { padding:5px 14px 5px 12px; cursor:pointer; border-left:3px solid transparent; display:flex; gap:8px; font-size:14px; }
+  #sidebar li:hover { background:#211e15; }
+  #sidebar li.cur { border-left-color:var(--gold); background:#26221a; }
+  #sidebar li .n { color:var(--muted); width:22px; flex:none; text-align:right; }
+  #sidebar li .t { flex:1; }
+  #sidebar li .c { color:var(--muted); font-size:12px; }
+  #sidebar li.side .t { color:var(--side); font-style:italic; }
+  #sidebar li.empty { opacity:.4; cursor:default; }
+  #stage { flex:1; display:flex; flex-direction:column; min-width:0; }
+  #imgWrap { flex:1; position:relative; display:flex; align-items:center; justify-content:center; min-height:0; padding:14px; }
+  #toggleSide { position:absolute; left:8px; top:8px; z-index:3; }
+  #gimgBox { position:relative; max-width:100%; max-height:100%; line-height:0; }
+  #gimg { max-width:100%; max-height:calc(100vh - 52px - 220px); cursor:crosshair; box-shadow:0 4px 30px #000; }
+  #marker { position:absolute; width:34px; height:34px; margin:-17px 0 0 -17px; border:2px solid var(--gold); border-radius:50%; box-shadow:0 0 0 2px #000a; pointer-events:none; display:none; }
+  #marker::after { content:""; position:absolute; left:50%; top:50%; width:4px; height:4px; margin:-2px; background:var(--gold); border-radius:50%; }
+  .navbtn { position:absolute; top:50%; transform:translateY(-50%); font-size:26px; padding:8px 14px; z-index:2; opacity:.8; }
+  #prev { left:8px; } #next { right:8px; }
+  #info { height:220px; flex:none; overflow-y:auto; border-top:1px solid var(--line); padding:12px 20px; display:grid; grid-template-columns: 1fr 1fr; gap:24px; }
+  #info h2 { margin:0 0 2px; font-size:19px; font-weight:normal; color:var(--gold); }
+  #info h3 { margin:0 0 4px; font-size:17px; font-weight:normal; }
+  #info .meta { color:var(--muted); font-size:13px; margin-bottom:6px; }
+  #info p { margin:0 0 6px; font-size:14px; }
+  #info a { color:var(--gold); }
+  .tag { display:inline-block; font-size:11px; letter-spacing:.06em; text-transform:uppercase; border:1px solid var(--side); color:var(--side); border-radius:3px; padding:0 5px; margin-left:6px; vertical-align:middle; }
+  .hint { color:var(--muted); font-size:12px; }
+  #loader { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; flex-direction:column; gap:12px; text-align:center; }
+</style>
+</head>
+<body>
+<header>
+  <h1>ΟΔΥΣΣΕΙΑ · The Odyssey in Art</h1>
+  <div class="grp"><span class="lbl">Mode</span><div class="seg" id="segMode"><button data-v="film">Film</button><button data-v="gallery">Click-through</button></div></div>
+  <div class="grp"><span class="lbl">Version</span><div class="seg" id="segVer"><button data-v="complete">Complete</button><button data-v="concise">Concise</button></div></div>
+  <div class="grp"><span class="lbl">Story</span><div class="seg" id="segStory"><button data-v="main">Odysseus</button><button data-v="all">+ Side stories</button><button data-v="side">Side stories only</button></div></div>
+  <div id="status"></div>
+</header>
+<main>
+  <div id="loader">
+    <div>Loading <code>odyssey.json</code>…</div>
+    <div id="loadErr" style="display:none">
+      <p>Could not fetch <code>odyssey.json</code> next to this page (it was probably opened as a local file).</p>
+      <button id="pickJson">Open odyssey.json…</button>
+      <p class="hint">In Chrome/Edge the file stays writable, so head positions are saved straight into it.</p>
+    </div>
+  </div>
+
+  <section class="view" id="film">
+    <div id="screen"><img id="fimg" alt=""><div id="filmCaption"></div></div>
+    <div id="filmBar">
+      <button id="play">▶ Play</button>
+      <input type="range" id="scrub" min="0" value="0">
+      <span id="pos" class="hint"></span>
+      <label class="hint">fps <input type="number" id="fps" value="24" min="1" max="60"></label>
+      <label class="hint">frames / image <input type="number" id="fpi" value="3" min="1" max="240"></label>
+      <label class="hint"><input type="checkbox" id="centerHead" checked> centre on Odysseus' head</label>
+      <label class="hint"><input type="checkbox" id="showCap" checked> captions</label>
+    </div>
+  </section>
+
+  <section class="view" id="gallery">
+    <nav id="sidebar"><ol id="sceneList"></ol></nav>
+    <div id="stage">
+      <div id="imgWrap">
+        <button id="toggleSide" title="Show/hide scenes (S)">☰ Scenes</button>
+        <button class="navbtn" id="prev" title="Previous (←)">‹</button>
+        <div id="gimgBox"><img id="gimg" alt=""><div id="marker"></div></div>
+        <button class="navbtn" id="next" title="Next (→)">›</button>
+      </div>
+      <div id="info">
+        <div id="sceneInfo"></div>
+        <div id="artInfo"></div>
+      </div>
+    </div>
+  </section>
+</main>
+<script>
+const JSON_NAME = 'odyssey.json';
+const LS_KEY = 'odyssey-heads-v1';
+let data, fileHandle = null, canPut = true;
+const st = { mode:'gallery', ver:'complete', story:'main', gi:0, fi:0 };
+let seq = [];           // current image sequence
+const $ = id => document.getElementById(id);
+
+/* ---------- loading & saving ---------- */
+async function boot() {
+  try {
+    const r = await fetch(JSON_NAME, { cache:'no-store' });
+    if (!r.ok) throw new Error(r.status);
+    init(await r.json());
+  } catch (e) {
+    $('loadErr').style.display = 'block';
+  }
+}
+$('pickJson').onclick = async () => {
+  if (window.showOpenFilePicker) {
+    [fileHandle] = await showOpenFilePicker({ types:[{ description:'JSON', accept:{ 'application/json':['.json'] } }] });
+    canPut = false;
+    init(JSON.parse(await (await fileHandle.getFile()).text()));
+  } else {
+    const inp = Object.assign(document.createElement('input'), { type:'file', accept:'.json' });
+    inp.onchange = async () => { canPut = false; init(JSON.parse(await inp.files[0].text())); };
+    inp.click();
+  }
+};
+function init(d) {
+  data = d;
+  // merge any head positions saved in this browser that never reached the file
+  const local = JSON.parse(localStorage.getItem(LS_KEY) || '{}');
+  for (const im of data.images) if (im.file in local) im.head = local[im.file];
+  data.sceneById = Object.fromEntries(data.scenes.map(s => [s.id, s]));
+  $('loader').style.display = 'none';
+  const h = new URLSearchParams(location.hash.slice(1));
+  for (const k of ['mode','ver','story']) if (h.get(k)) st[k] = h.get(k);
+  rebuild(true);
+}
+let saveTimer;
+function persist(im) {
+  const local = JSON.parse(localStorage.getItem(LS_KEY) || '{}');
+  local[im.file] = im.head; localStorage.setItem(LS_KEY, JSON.stringify(local));
+  clearTimeout(saveTimer); saveTimer = setTimeout(saveFile, 400);
+}
+function serialize() {
+  const { sceneById, ...rest } = data;
+  return JSON.stringify(rest, null, 1);
+}
+async function saveFile() {
+  setStatus('Saving…');
+  if (canPut) {
+    try {
+      const r = await fetch(JSON_NAME, { method:'PUT', headers:{ 'Content-Type':'application/json' }, body:serialize() });
+      if (r.ok) { localStorage.removeItem(LS_KEY); return setStatus('Saved to odyssey.json'); }
+    } catch (e) {}
+    canPut = false;
+  }
+  if (fileHandle) {
+    try {
+      const w = await fileHandle.createWritable(); await w.write(serialize()); await w.close();
+      localStorage.removeItem(LS_KEY); return setStatus('Saved to odyssey.json');
+    } catch (e) {}
+  }
+  setStatus('Saved in browser · <a href="#" id="dl" style="color:var(--gold)">download odyssey.json</a>');
+  $('dl').onclick = ev => { ev.preventDefault();
+    const a = Object.assign(document.createElement('a'), { href:URL.createObjectURL(new Blob([serialize()], { type:'application/json' })), download:JSON_NAME }); a.click(); };
+}
+function setStatus(h) { $('status').innerHTML = h; }
+
+/* ---------- sequence ---------- */
+function inStory(s) { return st.story === 'all' || (st.story === 'side') === !!s.side; }
+function rebuild(keepPos) {
+  const cur = seq[st.gi];
+  seq = [];
+  for (const s of data.scenes) {
+    if (!inStory(s)) continue;
+    for (const im of data.images) if (im.scene === s.id && im[st.ver]) seq.push(im);
+  }
+  const i = cur ? seq.indexOf(cur) : -1;
+  st.gi = i >= 0 ? i : (keepPos ? Math.min(st.gi, seq.length - 1) : 0);
+  st.fi = Math.max(0, Math.min(st.fi, seq.length - 1));
+  document.querySelectorAll('.seg button').forEach(b => {
+    const k = { segMode:'mode', segVer:'ver', segStory:'story' }[b.parentNode.id];
+    b.classList.toggle('on', st[k] === b.dataset.v);
+  });
+  $('film').classList.toggle('active', st.mode === 'film');
+  $('gallery').classList.toggle('active', st.mode === 'gallery');
+  if (st.mode !== 'film') stop();
+  location.replace('#mode=' + st.mode + '&ver=' + st.ver + '&story=' + st.story);
+  buildSceneList();
+  $('scrub').max = Math.max(0, seq.length - 1);
+  if (st.mode === 'gallery') showGallery(); else showFrame(st.fi);
+  const nHeads = data.images.filter(i => i.head).length;
+  if (!/Sav/.test($('status').textContent)) setStatus(seq.length + ' images · ' + nHeads + ' heads marked');
+}
+document.querySelectorAll('.seg').forEach(seg => seg.onclick = e => {
+  if (!e.target.dataset.v) return;
+  const k = { segMode:'mode', segVer:'ver', segStory:'story' }[seg.id];
+  if (k === 'mode' && e.target.dataset.v === 'film') st.fi = st.gi;
+  if (k === 'mode' && e.target.dataset.v === 'gallery') st.gi = st.fi;
+  st[k] = e.target.dataset.v; rebuild(true);
+});
+
+/* ---------- gallery ---------- */
+function buildSceneList() {
+  const ol = $('sceneList'); ol.innerHTML = '';
+  let n = 0;
+  for (const s of data.scenes) {
+    if (!inStory(s)) continue;
+    n++;
+    const first = seq.findIndex(im => im.scene === s.id);
+    const count = seq.filter(im => im.scene === s.id).length;
+    const li = document.createElement('li');
+    li.dataset.scene = s.id;
+    li.className = (s.side ? 'side ' : '') + (count ? '' : 'empty');
+    li.innerHTML = `<span class="n">${n}</span><span class="t">${s.title}</span><span class="c">${count || '–'}</span>`;
+    li.title = s.ref + (count ? '' : ' (no public-domain art found yet)');
+    if (count) li.onclick = () => { st.gi = first; showGallery(); };
+    ol.appendChild(li);
+  }
+}
+function showGallery() {
+  const im = seq[st.gi];
+  if (!im) { $('gimg').removeAttribute('src'); $('sceneInfo').innerHTML = '<p>No images in this selection.</p>'; $('artInfo').innerHTML = ''; return; }
+  const s = data.sceneById[im.scene];
+  $('gimg').src = im.display;
+  $('marker').style.display = 'none';
+  $('gimg').onload = placeMarker;
+  if ($('gimg').complete) placeMarker();
+  const idxInScene = seq.filter(x => x.scene === s.id).indexOf(im) + 1, nScene = seq.filter(x => x.scene === s.id).length;
+  $('sceneInfo').innerHTML = `<h2>${s.title}${s.side ? '<span class="tag">side story</span>' : ''}</h2>
+    <div class="meta">Scene ${s.order} · ${s.ref} · image ${idxInScene} of ${nScene} · ${st.gi + 1} / ${seq.length} overall</div>
+    <p>${s.description}</p>`;
+  $('artInfo').innerHTML = `<h3>${esc(im.title)}</h3>
+    <div class="meta">${esc(im.artist)}${im.date ? ' · ' + esc(im.date) : ''} · ${esc(im.license)}</div>
+    ${im.description ? `<p>${esc(im.description)}</p>` : ''}
+    <p class="hint">Click Odysseus' head in the image to mark it for the film. ${im.head ? `Marked at ${im.head.map(v => v.toFixed(3)).join(', ')} · <a href="#" id="clrHead">clear</a>` : 'Not marked yet.'}
+    · <a href="${im.src}" target="_blank" rel="noopener">original file</a> · <a href="${im.page}" target="_blank" rel="noopener">Commons page</a></p>`;
+  if ($('clrHead')) $('clrHead').onclick = e => { e.preventDefault(); im.head = null; persist(im); showGallery(); };
+  document.querySelectorAll('#sceneList li').forEach(li => li.classList.toggle('cur', li.dataset.scene === s.id));
+  const cur = document.querySelector('#sceneList li.cur'); if (cur) cur.scrollIntoView({ block:'nearest' });
+  // warm the next image
+  if (seq[st.gi + 1]) new Image().src = seq[st.gi + 1].display;
+}
+function esc(t) { return String(t).replace(/[&<>"]/g, c => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;' }[c])); }
+function placeMarker() {
+  const im = seq[st.gi], m = $('marker'), g = $('gimg');
+  if (!im || !im.head) { m.style.display = 'none'; return; }
+  m.style.left = (im.head[0] * g.clientWidth) + 'px'; m.style.top = (im.head[1] * g.clientHeight) + 'px'; m.style.display = 'block';
+}
+$('gimg').onclick = e => {
+  const im = seq[st.gi], r = e.target.getBoundingClientRect();
+  im.head = [+((e.clientX - r.left) / r.width).toFixed(4), +((e.clientY - r.top) / r.height).toFixed(4)];
+  persist(im); showGallery();
+};
+const go = d => { if (!seq.length) return; st.gi = (st.gi + d + seq.length) % seq.length; showGallery(); };
+$('prev').onclick = () => go(-1); $('next').onclick = () => go(1);
+$('toggleSide').onclick = () => { $('gallery').classList.toggle('collapsed'); setTimeout(placeMarker, 250); };
+addEventListener('resize', placeMarker);
+
+/* ---------- film ---------- */
+let playing = false, timer = null;
+const cache = new Map();
+function getImg(im) {
+  let i = cache.get(im.file);
+  if (!i) { i = new Image(); i.decoding = 'async'; i.src = im.display; cache.set(im.file, i); }
+  return i;
+}
+function preload(from) {
+  for (let k = from; k < Math.min(seq.length, from + 40); k++) getImg(seq[k]);
+  if (cache.size > 400) for (const key of [...cache.keys()].slice(0, 100)) cache.delete(key);
+}
+function showFrame(i) {
+  const im = seq[i]; if (!im) return;
+  const src = getImg(im);
+  const draw = () => {
+    const f = $('fimg'), W = $('screen').clientWidth, H = $('screen').clientHeight;
+    const w = src.naturalWidth, h = src.naturalHeight;
+    if (f.src !== src.src) f.src = src.src;
+    f.style.width = w + 'px'; f.style.height = h + 'px';
+    let sc, tx, ty;
+    if ($('centerHead').checked && im.head) {
+      sc = Math.max(W / w, H / h);              // fill the frame, head at the centre
+      tx = W / 2 - im.head[0] * w * sc; ty = H / 2 - im.head[1] * h * sc;
+    } else {
+      sc = Math.min(W / w, H / h);              // whole picture, letterboxed
+      tx = (W - w * sc) / 2; ty = (H - h * sc) / 2;
+    }
+    f.style.transform = `translate(${tx}px,${ty}px) scale(${sc})`;
+  };
+  if (src.complete && src.naturalWidth) draw(); else src.onload = draw;
+  const s = data.sceneById[im.scene];
+  $('filmCaption').textContent = $('showCap').checked ? `${s.title} — ${im.title}, ${im.artist}${im.date ? ', ' + im.date : ''}` : '';
+  $('scrub').value = i; $('pos').textContent = `${i + 1} / ${seq.length}`;
+  preload(i + 1);
+  return src;
+}
+function tick() {
+  if (!playing) return;
+  const im = seq[st.fi];
+  const src = getImg(im);
+  if (!(src.complete && src.naturalWidth) && !src.failed) {   // hold until the frame has loaded
+    src.onerror = () => { src.failed = true; };
+    timer = setTimeout(tick, 30); return;
+  }
+  showFrame(st.fi);
+  const fps = Math.max(1, +$('fps').value || 24), fpi = Math.max(1, +$('fpi').value || 3);
+  st.fi++;
+  if (st.fi >= seq.length) { st.fi = seq.length - 1; stop(); return; }
+  timer = setTimeout(tick, 1000 * fpi / fps);
+}
+function play() { if (st.fi >= seq.length - 1) st.fi = 0; playing = true; $('play').textContent = '❚❚ Pause'; preload(st.fi); tick(); }
+function stop() { playing = false; clearTimeout(timer); $('play').textContent = '▶ Play'; }
+$('play').onclick = () => playing ? stop() : play();
+$('scrub').oninput = e => { st.fi = +e.target.value; showFrame(st.fi); };
+$('centerHead').onchange = $('showCap').onchange = () => showFrame(Math.min(st.fi, seq.length - 1));
+addEventListener('resize', () => { if (st.mode === 'film') showFrame(Math.min(st.fi, seq.length - 1)); });
+
+addEventListener('keydown', e => {
+  if (!data || e.target.tagName === 'INPUT') return;
+  if (st.mode === 'gallery') {
+    if (e.key === 'ArrowRight') go(1);
+    else if (e.key === 'ArrowLeft') go(-1);
+    else if (e.key === 's' || e.key === 'S') $('toggleSide').click();
+  } else if (e.key === ' ') { e.preventDefault(); playing ? stop() : play(); }
+  else if (e.key === 'ArrowRight') { stop(); st.fi = Math.min(seq.length - 1, st.fi + 1); showFrame(st.fi); }
+  else if (e.key === 'ArrowLeft') { stop(); st.fi = Math.max(0, st.fi - 1); showFrame(st.fi); }
+});
+boot();
+</script>
+</body>
+</html>
