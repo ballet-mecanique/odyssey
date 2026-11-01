@@ -46,7 +46,8 @@
   #imgWrap { flex:1; position:relative; display:flex; align-items:center; justify-content:center; min-height:0; padding:14px; }
   #toggleSide { position:absolute; left:8px; top:8px; z-index:3; }
   #gimgBox { position:relative; max-width:100%; max-height:100%; line-height:0; }
-  #gimg { max-width:100%; max-height:calc(100vh - 52px - 220px); cursor:crosshair; box-shadow:0 4px 30px #000; }
+  /* viewport minus header (52), info panel (220) and #imgWrap's vertical padding (2 × 14) */
+  #gimg { display:block; max-width:100%; max-height:calc(100vh - 52px - 220px - 28px); cursor:crosshair; box-shadow:0 4px 30px #000; }
   #marker { position:absolute; width:34px; height:34px; margin:-17px 0 0 -17px; border:2px solid var(--gold); border-radius:50%; box-shadow:0 0 0 2px #000a; pointer-events:none; display:none; }
   #marker::after { content:""; position:absolute; left:50%; top:50%; width:4px; height:4px; margin:-2px; background:var(--gold); border-radius:50%; }
   .navbtn { position:absolute; top:50%; transform:translateY(-50%); font-size:26px; padding:8px 14px; z-index:2; opacity:.8; }
